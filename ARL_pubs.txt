@@ -1,0 +1,2413 @@
+﻿@article{
+   author = {Adams, S. P. and Bennett, M. D. and Leitch, I. J. and Leitch, A. R.},
+   title = {Ribosomal DNA and karyotype evolution in aloe},
+   journal = {Cytogenetics and Cell Genetics},
+   volume = {81},
+   number = {2},
+   pages = {123-123},
+   note = {Times Cited: 0
+S
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0},
+   ISSN = {0301-0171},
+   url = {<Go to ISI>://WOS:000075654800092},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Adams, S. P. and Hartman, T. P. V. and Lim, K. Y. and Chase, M. W. and Bennett, M. D. and Leitch, I. J. and Leitch, A. R.},
+   title = {Loss and recovery of Arabidopsis-type telomere repeat sequences 5 '-(TTTAGGG)(n)-3 ' in the evolution of a major radiation of flowering plants},
+   journal = {Proceedings of the Royal Society B-Biological Sciences},
+   volume = {268},
+   number = {1476},
+   pages = {1541-1546},
+   note = {Times Cited: 51
+Chase, Mark /A-6642-2011; Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+55},
+   ISSN = {0962-8452},
+   DOI = {10.1098/rspb.2001.1726},
+   url = {<Go to ISI>://WOS:000170428200002},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Adams, S. P. and Leitch, I. J. and Bennet, M. D. and Chase, M. W. and Leitch, A. R.},
+   title = {Ribosomal DNA evolution and phylogeny in Aloe (Asphodelaceae)},
+   journal = {American Journal of Botany},
+   volume = {87},
+   number = {11},
+   pages = {1578-1583},
+   note = {Times Cited: 65
+Chase, Mark /A-6642-2011; Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+1
+68},
+   ISSN = {0002-9122},
+   DOI = {10.2307/2656733},
+   url = {<Go to ISI>://WOS:000165385900004},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Adams, S. P. and Leitch, I. J. and Bennett, M. D. and Leitch, A. R.},
+   title = {Aloe L. - a second plant family without (TTTAGGG)(n) telomeres},
+   journal = {Chromosoma},
+   volume = {109},
+   number = {3},
+   pages = {201-205},
+   note = {Times Cited: 36
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+41},
+   ISSN = {0009-5915},
+   DOI = {10.1007/s004120050429},
+   url = {<Go to ISI>://WOS:000088157700006},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@misc{
+   author = {Anamthawat, K. M. and Bennett, M. D. and Heslopharr, J. S. and Leitch, A. R. and Schwarzach, T.},
+   title = {Identification of alien DNA in plants|by hybridising plant DNA with labelled genomic fragments},
+   publisher = {British Petroleum Co Plc},
+   ISBN = {WO9006375-A1; CA2004408-A; AU8946602-A; EP446292-A; JP4502253-W},
+   url = {<Go to ISI>://DIIDW:1990209785},
+   type = {Patent}
+}
+
+@article{
+   author = {Anamthawat-Jonsson, K. and Schwarzacher, T. and Leitch, A. R. and Heslop-Harrison, J. S.},
+   title = {GENOMIC PROBING FOR DIFFERENTIATING CLOSELY RELATED SPECIES AND DETECTION OF ALIEN CHROMOSOME TRANSFERS},
+   journal = {Journal of Experimental Botany},
+   volume = {42},
+   number = {238 SUPPL},
+   pages = {34-34},
+   note = {Times Cited: 0
+ANNUAL MEETING OF THE SOCIETY FOR EXPERIMENTAL BIOLOGY, BIRMINGHAM, ALABAMA, USA, APRIL 7-12, 1991. J EXP BOT.
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0},
+   ISSN = {0022-0957},
+   url = {<Go to ISI>://BCI:BCI199141082697},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Anamthawatjonsson, K. and Schwarzacher, T. and Leitch, A. R. and Bennett, M. D. and Heslopharrison, J. S.},
+   title = {DISCRIMINATION BETWEEN CLOSELY RELATED TRITICEAE SPECIES USING GENOMIC DNA AS A PROBE},
+   journal = {Theoretical and Applied Genetics},
+   volume = {79},
+   number = {6},
+   pages = {721-728},
+   note = {Times Cited: 135
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+139},
+   ISSN = {0040-5752},
+   url = {<Go to ISI>://WOS:A1990DJ97300001},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Becher, Hannes and Ma, Lu and Kelly, Laura J. and Kovarik, Ales and Leitch, Ilia J. and Leitch, Andrew R.},
+   title = {Endogenous pararetrovirus sequences associated with 24 nt small RNAs at the centromeres of Fritillaria imperialis L. (Liliaceae), a species with a giant genome},
+   journal = {Plant Journal},
+   volume = {80},
+   number = {5},
+   pages = {823-833},
+   note = {Times Cited: 1
+0
+1},
+   ISSN = {0960-7412},
+   DOI = {10.1111/tpj.12673},
+   url = {<Go to ISI>://WOS:000345511500007},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Bozek, Monika and Leitch, Andrew R. and Leitch, Ilia J. and Zaveska Drabkova, Lenka and Kuta, Elzbieta},
+   title = {Chromosome and genome size variation in Luzula (Juncaceae), a genus with holocentric chromosomes},
+   journal = {Botanical Journal of the Linnean Society},
+   volume = {170},
+   number = {4},
+   pages = {529-541},
+   note = {Times Cited: 5
+Zaveska Drabkova, Lenka/F-6999-2012
+0
+6},
+   ISSN = {0024-4074},
+   DOI = {10.1111/j.1095-8339.2012.01314.x},
+   url = {<Go to ISI>://WOS:000311243700004},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Branch, M. S. and Berndt, P. R. and Leitch, A. R. and Botha, J. R. and Weber, J.},
+   title = {The influence of growth parameters on the stucture and composition of CuGaS2 epilayers grown by MOVPE},
+   journal = {Physica B-Condensed Matter},
+   volume = {376},
+   pages = {803-807},
+   note = {Times Cited: 3
+23rd International Conference on Defects in Semiconductors
+JUL 24-29, 2005
+Awaji Isl, JAPAN
+0
+3},
+   ISSN = {0921-4526},
+   DOI = {10.1016/j.physb.2005.12.201},
+   url = {<Go to ISI>://WOS:000237329500198},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Buggs, Richard J. A. and Renny-Byfield, Simon and Chester, Michael and Jordon-Thaden, Ingrid E. and Viccini, Lyderson Facio and Chamala, Srikar and Leitch, Andrew R. and Schnable, Patrick S. and Barbazuk, W. Bradley and Soltis, Pamela S. and Soltis, Douglas E.},
+   title = {NEXT-GENERATION SEQUENCING AND GENOME EVOLUTION IN ALLOPOLYPLOIDS},
+   journal = {American Journal of Botany},
+   volume = {99},
+   number = {2},
+   pages = {372-382},
+   note = {Times Cited: 29
+Jordon-Thaden, Ingrid/A-5619-2012; Buggs, Richard/A-9826-2008
+Buggs, Richard/0000-0003-4495-3738
+0
+30},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.1100395},
+   url = {<Go to ISI>://WOS:000300471100017},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Chandley, A. C. and Speed, R. M. and Leitch, A. R.},
+   title = {Different distributions of homologous chromosomes in adult human Sertoli cells and in lymphocytes signify nuclear differentiation},
+   journal = {Journal of Cell Science},
+   volume = {109},
+   pages = {773-776},
+   note = {Times Cited: 28
+4
+0
+28},
+   ISSN = {0021-9533},
+   url = {<Go to ISI>://WOS:A1996UG06100006},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Chester, Michael and Gallagher, Joseph P. and Symonds, V. Vaughan and Cruz da Silva, Ana Veruska and Mavrodiev, Evgeny V. and Leitch, Andrew R. and Soltis, Pamela S. and Soltis, Douglas E.},
+   title = {Extensive chromosomal variation in a recently formed natural allopolyploid species, Tragopogon miscellus (Asteraceae)},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {109},
+   number = {4},
+   pages = {1176-1181},
+   note = {Times Cited: 68
+0
+70},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1112041109},
+   url = {<Go to ISI>://WOS:000299412600040},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Chester, Michael and Leitch, Andrew R. and Soltis, Pamela S. and Soltis, Douglas E.},
+   title = {Review of the Application of Modern Cytogenetic Methods (FISH/GISH) to the Study of Reticulation (Polyploidy/Hybridisation)},
+   journal = {Genes},
+   volume = {1},
+   number = {2},
+   pages = {166-192},
+   note = {Times Cited: 15
+0
+18},
+   ISSN = {2073-4425},
+   DOI = {10.3390/genes1020166},
+   url = {<Go to ISI>://WOS:000209241700002},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Chester, M. and Sykorova, E. and Fajkus, J. and Leitch, A. R.},
+   title = {Single Integration and Spread of a Copia-Like Sequence Nested in rDNA Intergenic Spacers of Allium cernuum (Alliaceae)},
+   journal = {Cytogenetic and Genome Research},
+   volume = {129},
+   number = {1-3},
+   pages = {35-46},
+   note = {Times Cited: 5
+Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012
+0
+5},
+   ISSN = {1424-8581},
+   DOI = {10.1159/000312959},
+   url = {<Go to ISI>://WOS:000280519500005},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Clare, Elizabeth L. and Schiestl, Florian P. and Leitch, Andrew R. and Chittka, Lars},
+   title = {The promise of genomics in the study of plant-pollinator interactions},
+   journal = {Genome Biology},
+   volume = {14},
+   number = {6},
+   note = {Times Cited: 5
+0
+5},
+   ISSN = {1465-6906},
+   DOI = {10.1186/gb-2013-14-6-207},
+   url = {<Go to ISI>://WOS:000328194200024},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Clarkson, James J. and Kelly, Laura J. and Leitch, Andrew R. and Knapp, Sandra and Chase, Mark W.},
+   title = {Nuclear glutamine synthetase evolution in Nicotiana: Phylogenetics and the origins of allotetraploid and homoploid (diploid) hybrids},
+   journal = {Molecular Phylogenetics and Evolution},
+   volume = {55},
+   number = {1},
+   pages = {99-112},
+   note = {Times Cited: 45
+Chase, Mark /A-6642-2011; Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+0
+46},
+   ISSN = {1055-7903},
+   DOI = {10.1016/j.ympev.2009.10.003},
+   url = {<Go to ISI>://WOS:000275306000008},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Clarkson, J. J. and Knapp, S. and Garcia, V. F. and Olmstead, R. G. and Leitch, A. R. and Chase, M. W.},
+   title = {Phylogenetic relationships in Nicotiana (Solanaceae) inferred from multiple plastid DNA regions},
+   journal = {Molecular Phylogenetics and Evolution},
+   volume = {33},
+   number = {1},
+   pages = {75-90},
+   note = {Times Cited: 99
+Chase, Mark /A-6642-2011; Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+0
+109},
+   ISSN = {1055-7903},
+   DOI = {10.1016/j.ympev.2004.05.002},
+   url = {<Go to ISI>://WOS:000224047400007},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Clarkson, J. J. and Lim, K. Y. and Kovarik, A. and Chase, M. W. and Knapp, S. and Leitch, A. R.},
+   title = {Long-term genome diploidization in allopolyploid Nicotiana section Repandae (Solanaceae)},
+   journal = {New Phytologist},
+   volume = {168},
+   number = {1},
+   pages = {241-252},
+   note = {Times Cited: 89
+Chase, Mark /A-6642-2011; Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+0
+90},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2005.01480.x},
+   url = {<Go to ISI>://WOS:000231707700023},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Day, Peter D. and Berger, Madeleine and Hill, Laurence and Fay, Michael F. and Leitch, Andrew R. and Leitch, Ilia J. and Kelly, Laura J.},
+   title = {Evolutionary relationships in the medicinally important genus Fritillaria L. (Liliaceae)},
+   journal = {Molecular Phylogenetics and Evolution},
+   volume = {80},
+   pages = {11-19},
+   note = {Times Cited: 3
+Fay, Michael /G-4741-2010
+Fay, Michael /0000-0003-3491-9093
+0
+4},
+   ISSN = {1055-7903},
+   DOI = {10.1016/j.ympev.2014.07.024},
+   url = {<Go to ISI>://WOS:000343742200002},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Dobesova, E. and Malinska, H. and Matyasek, R. and Leitch, A. R. and Soltis, D. E. and Soltis, P. S. and Kovarik, A.},
+   title = {Silenced rRNA genes are activated and substitute for partially eliminated active homeologs in the recently formed allotetraploid, Tragopogon mirus (Asteraceae)},
+   journal = {Heredity},
+   volume = {114},
+   number = {3},
+   pages = {356-365},
+   note = {Times Cited: 0
+0},
+   ISSN = {0018-067X},
+   DOI = {10.1038/hdy.2014.111},
+   url = {<Go to ISI>://WOS:000349671000013},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Dodsworth, Steven and Chase, Mark W. and Kelly, Laura J. and Leitch, Ilia J. and Macas, Jiri and Novak, Petr and Piednoel, Mathieu and Weiss-Schneeweiss, Hanna and Leitch, Andrew R.},
+   title = {Genomic Repeat Abundances Contain Phylogenetic Signal},
+   journal = {Systematic Biology},
+   volume = {64},
+   number = {1},
+   pages = {112-126},
+   note = {Times Cited: 1
+Novak, Petr/A-3059-2013; Chase, Mark /A-6642-2011
+Novak, Petr/0000-0002-5068-9681;
+0
+1},
+   ISSN = {1063-5157},
+   DOI = {10.1093/sysbio/syu080},
+   url = {<Go to ISI>://WOS:000350150400012},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fajkus, J. and Sykorova, E. and Leitch, A. R.},
+   title = {Telomeres in evolution and evolution of telomeres},
+   journal = {Chromosome Research},
+   volume = {13},
+   number = {5},
+   pages = {469-479},
+   note = {Times Cited: 70
+Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012
+0
+77},
+   ISSN = {0967-3849},
+   DOI = {10.1007/s10577-005-0997-2},
+   url = {<Go to ISI>://WOS:000231350700005},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fajkus, J. and Sykorova, E. and Leitch, A. R.},
+   title = {Techniques in plant telomere biology},
+   journal = {Biotechniques},
+   volume = {38},
+   number = {2},
+   pages = {233-243},
+   note = {Times Cited: 6
+Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012
+0
+7},
+   ISSN = {0736-6205},
+   DOI = {10.2144/05382rv01},
+   url = {<Go to ISI>://WOS:000226996200012},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Francis, H. A. and Leitch, A. R. and Koebner, R. M. D.},
+   title = {CONVERSION OF A RAPD-GENERATED PCR PRODUCT, CONTAINING A NOVEL DISPERSED REPETITIVE ELEMENT, INTO A FAST AND ROBUST ASSAY FOR THE PRESENCE OF RYE CHROMATIN IN WHEAT},
+   journal = {Theoretical and Applied Genetics},
+   volume = {90},
+   number = {5},
+   pages = {636-642},
+   note = {Times Cited: 40
+0
+80},
+   ISSN = {0040-5752},
+   url = {<Go to ISI>://WOS:A1995QV21800008},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fulnecek, J. and Lim, K. Y. and Leitch, A. R. and Kovarik, A. and Matyasek, R.},
+   title = {Evolution and structure of 5S rDNA loci in allotetraploid Nicotiana tabacum and its putative parental species},
+   journal = {Heredity},
+   volume = {88},
+   pages = {19-25},
+   note = {Times Cited: 54
+1
+0
+55},
+   ISSN = {0018-067X},
+   DOI = {10.1038/sj/hdy/6800001},
+   url = {<Go to ISI>://WOS:000176214400005},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Garcia, Sonia and Chester, Michael and Garnatje, Teresa and Kovarik, Ales and Leitch, Andrew R. and Lim, K. Yoong and Pellicer, Jaume and Valles, Joan},
+   title = {Linkage of nuclear 45S and 5S rDNA in the sunflower family (Asteraceae) revealed by in situ hybridization and PCR},
+   journal = {Chromosome Research},
+   volume = {15},
+   pages = {37-38},
+   note = {Times Cited: 0
+2
+16th International Chromosome Conference (ICC 16)
+AUG 25-29, 2007
+Amsterdam, NETHERLANDS
+Valles, Joan/B-4165-2013; Garcia, Sonia /M-7460-2013; Garnatje, Teresa/L-3028-2014
+Garcia, Sonia /0000-0002-3143-0527;
+0},
+   ISSN = {0967-3849},
+   url = {<Go to ISI>://WOS:000249018100095},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Garcia, Sonia and Lim, K. Yoong and Chester, Michael and Garnatje, Teresa and Pellicer, Jaume and Valles, Joan and Leitch, Andrew R. and Kovarik, Ales},
+   title = {Linkage of 35S and 5S rRNA genes in Artemisia (family Asteraceae): first evidence from angiosperms},
+   journal = {Chromosoma},
+   volume = {118},
+   number = {1},
+   pages = {85-97},
+   note = {Times Cited: 31
+Valles, Joan/B-4165-2013; Garcia, Sonia /M-7460-2013; Garnatje, Teresa/L-3028-2014
+Garcia, Sonia /0000-0002-3143-0527;
+0
+32},
+   ISSN = {0009-5915},
+   DOI = {10.1007/s00412-008-0179-z},
+   url = {<Go to ISI>://WOS:000262504300008},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Glyn, M. C. P. and Egertova, M. and Gazdova, B. and Kovarik, A. and Bezdek, M. and Leitch, A. R.},
+   title = {The influence of 5-azacytidine on the condensation of the short arm of rye chromosome 1R in Triticum aestivum L. root tip meristematic nuclei},
+   journal = {Chromosoma},
+   volume = {106},
+   number = {8},
+   pages = {485-492},
+   note = {Times Cited: 9
+0
+9},
+   ISSN = {0009-5915},
+   url = {<Go to ISI>://WOS:000071768500002},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Glyn, M. C. P. and Leitch, A. R.},
+   title = {THE DISTRIBUTION OF A SPLICEOSOME PROTEIN IN CEREAL (TRITICEAE) INTERPHASE NUCLEI FROM CELLS WITH DIFFERENT METABOLIC-ACTIVITIES AND THROUGH THE CELL-CYCLE},
+   journal = {Plant Journal},
+   volume = {8},
+   number = {4},
+   pages = {531-540},
+   note = {Times Cited: 18
+0
+18},
+   ISSN = {0960-7412},
+   DOI = {10.1046/j.1365-313X.1995.8040531.x},
+   url = {<Go to ISI>://WOS:A1995TB32200006},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Glyn, M. C. P. and Leitch, A. R.},
+   title = {The distribution of a spliceosome protein in cereal (Triticeae) interphase nuclei},
+   journal = {Chromosome Research},
+   volume = {3},
+   number = {SUPPL. 1},
+   pages = {88-88},
+   note = {Times Cited: 0
+12th International Chromosome Conference
+September 11-15, 1995
+Madrid, Spain
+0},
+   ISSN = {0967-3849},
+   url = {<Go to ISI>://BCI:BCI199698618934},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Haizel, T. and Lim, Y. K. and Leitch, A. R. and Moore, G.},
+   title = {Molecular analysis of holocentric centromeres of Luzula species},
+   journal = {Cytogenetic and Genome Research},
+   volume = {109},
+   number = {1-3},
+   pages = {134-143},
+   note = {Times Cited: 21
+0
+23},
+   ISSN = {1424-8581},
+   DOI = {10.1159/000082392},
+   url = {<Go to ISI>://WOS:000227984300018},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hernandez-Ibarra, N. K. and Ibarra, A. M. and Cruz, P. and Leitch, A. R.},
+   title = {FISH mapping of 5S rRNA genes in chromosomes of North American abalone species, Haliotis rufescens and H-fulgens},
+   journal = {Aquaculture},
+   volume = {272},
+   pages = {S268-S268},
+   note = {Times Cited: 1
+1
+9th International Symposium on Genetics in Aquaculture
+JUN 26-30, 2006
+Montpellier, FRANCE
+Inst Francais Rech Exploitat Mer; Inst Natl Rech Agron; Ctr Cooperat Int Rech Argon Dev; CNRS; Syndicat Select Avicoles Aquacoles Francais
+0},
+   ISSN = {0044-8486},
+   DOI = {10.1016/j.aquaculture.2007.07.086},
+   url = {<Go to ISI>://WOS:000252083500096},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hernandez-Ibarra, Norma Karina and Leitch, Andrew R. and Cruz, Pedro and Ibarra, Ana M.},
+   title = {Fluorescent in situ hybridization and characterization of the SalI family of satellite repeats in the Haliotis L. species (abalone) of the Northeast Pacific},
+   journal = {Genome},
+   volume = {51},
+   number = {8},
+   pages = {570-579},
+   note = {Times Cited: 4
+Ibarra, Ana /D-8616-2011
+0
+5},
+   ISSN = {0831-2796},
+   DOI = {10.1139/g08-041},
+   url = {<Go to ISI>://WOS:000258812100005},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@book{
+   author = {Heslopharrison, J. S. and Leitch, A. R. and Schwarzacher, T.},
+   title = {THE PHYSICAL ORGANIZATION OF INTERPHASE NUCLEI},
+   series = {Chromosome},
+   note = {Times Cited: 29
+10TH JOHN INNES SYMP ON THE CHROMOSOME
+SEP 07-10, 1992
+UNIV EAST ANGLIA, NORWICH, ENGLAND
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167},
+   pages = {221-232},
+   ISBN = {1-872748-32-5},
+   url = {<Go to ISI>://WOS:A1993BY72V00016},
+   year = {1993},
+   type = {Book}
+}
+
+@article{
+   author = {Heslopharrison, J. S. and Leitch, A. R. and Schwarzacher, T. and Anamthawatjonsson, K.},
+   title = {DETECTION AND CHARACTERIZATION OF 1B/1R TRANSLOCATIONS IN HEXAPLOID WHEAT},
+   journal = {Heredity},
+   volume = {65},
+   pages = {385-392},
+   note = {Times Cited: 84
+3
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+90},
+   ISSN = {0018-067X},
+   DOI = {10.1038/hdy.1990.108},
+   url = {<Go to ISI>://WOS:A1990EQ49500011},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Heslopharrison, J. S. and Leitch, A. R. and Schwarzacher, T. and Smith, J. B. and Atkinson, M. D. and Bennett, M. D.},
+   title = {THE VOLUMES AND MORPHOLOGY OF HUMAN-CHROMOSOMES IN MITOTIC RECONSTRUCTIONS},
+   journal = {Human Genetics},
+   volume = {84},
+   number = {1},
+   pages = {27-34},
+   note = {Times Cited: 20
+Heslop-Harrison, JS/C-9207-2009; Atkinson, Mark/K-1813-2013
+Heslop-Harrison, JS/0000-0002-3105-2167; Atkinson, Mark/0000-0003-4237-3588
+0
+20},
+   ISSN = {0340-6717},
+   DOI = {10.1007/bf00210666},
+   url = {<Go to ISI>://WOS:A1989CF41400007},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Heslopharrison, J. S. and Mosgoller, W. and Schwarzacher, T. and Leitch, A. R.},
+   title = {VOLUMES AND POSITIONS OF CHROMOSOMES IN RECONSTRUCTIONS OF FIBROBLASTS},
+   journal = {American Journal of Human Genetics},
+   volume = {49},
+   number = {4},
+   pages = {380-380},
+   note = {Times Cited: 1
+S
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+1},
+   ISSN = {0002-9297},
+   url = {<Go to ISI>://WOS:A1991GR30902137},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Jang, Tae-Soo and Emadzade, Khatere and Parker, John and Temsch, Eva M. and Leitch, Andrew R. and Speta, Franz and Weiss-Schneeweiss, Hanna},
+   title = {Chromosomal diversification and karyotype evolution of diploids in the cytologically diverse genus Prospero (Hyacinthaceae)},
+   journal = {Bmc Evolutionary Biology},
+   volume = {13},
+   note = {Times Cited: 4
+Schneeweiss, Hanna/B-4011-2013
+0
+4},
+   ISSN = {1471-2148},
+   DOI = {10.1186/1471-2148-13-136},
+   url = {<Go to ISI>://WOS:000322456100001},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kejnovsky, Eduard and Leitch, Ilia J. and Leitch, Andrew R.},
+   title = {Contrasting evolutionary dynamics between angiosperm and mammalian genomes},
+   journal = {Trends in Ecology & Evolution},
+   volume = {24},
+   number = {10},
+   pages = {572-582},
+   note = {Times Cited: 41
+Kejnovsky, Eduard/D-8878-2012; Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+41},
+   ISSN = {0169-5347},
+   DOI = {10.1016/j.tree.2009.04.010},
+   url = {<Go to ISI>://WOS:000270532000009},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kelly, Laura J. and Leitch, Andrew R. and Clarkson, James J. and Hunter, Robin B. and Knapp, Sandra and Chase, Mark W.},
+   title = {Intragenic Recombination Events and Evidence for Hybrid Speciation in Nicotiana (Solanaceae)},
+   journal = {Molecular Biology and Evolution},
+   volume = {27},
+   number = {4},
+   pages = {781-799},
+   note = {Times Cited: 32
+Chase, Mark /A-6642-2011; Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+0
+32},
+   ISSN = {0737-4038},
+   DOI = {10.1093/molbev/msp267},
+   url = {<Go to ISI>://WOS:000276639800006},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kelly, Laura J. and Leitch, Andrew R. and Clarkson, James J. and Knapp, Sandra and Chase, Mark W.},
+   title = {RECONSTRUCTING THE COMPLEX EVOLUTIONARY ORIGIN OF WILD ALLOPOLYPLOID TOBACCOS (NICOTIANA SECTION SUAVEOLENTES)},
+   journal = {Evolution},
+   volume = {67},
+   number = {1},
+   pages = {80-94},
+   note = {Times Cited: 5
+Knapp, Sandra/A-4856-2011; Chase, Mark /A-6642-2011
+Knapp, Sandra/0000-0001-7698-3945;
+0
+5},
+   ISSN = {0014-3820},
+   DOI = {10.1111/j.1558-5646.2012.01748.x},
+   url = {<Go to ISI>://WOS:000313364500007},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kelly, Laura J. and Leitch, Andrew R. and Fay, Michael F. and Renny-Byfield, Simon and Pellicer, Jaume and Macas, Jiri and Leitch, Ilia J.},
+   title = {Why size really matters when sequencing plant genomes},
+   journal = {Plant Ecology & Diversity},
+   volume = {5},
+   number = {4},
+   pages = {415-425},
+   note = {Times Cited: 9
+SI
+Fay, Michael /G-4741-2010; Macas, Jiri/G-8618-2014
+Fay, Michael /0000-0003-3491-9093; Macas, Jiri/0000-0003-0829-1570
+0
+9},
+   ISSN = {1755-0874},
+   DOI = {10.1080/17550874.2012.716868},
+   url = {<Go to ISI>://WOS:000315209700002},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kingham, K. I. and Duckett, J. G. and Gazdova, B. and Kovarik, A. and Bezdek, M. and Leitch, A. R.},
+   title = {The role of DNA methylation on nuclear and cell differentiation in the filamentous caulonema of the moss Funaria hygrometrica},
+   journal = {New Phytologist},
+   volume = {138},
+   number = {4},
+   pages = {567-577},
+   note = {Times Cited: 3
+0
+3},
+   ISSN = {0028-646X},
+   DOI = {10.1046/j.1469-8137.1998.00162.x},
+   url = {<Go to ISI>://WOS:000073742200001},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kingham, K. I. and Duckett, J. G. and Glyn, M. C. P. and Leitch, A. R.},
+   title = {Nuclear differentiation in the filamentous caulonema of the moss Funaria hygrometrica},
+   journal = {New Phytologist},
+   volume = {131},
+   number = {4},
+   pages = {543-556},
+   note = {Times Cited: 14
+0
+14},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.1995.tb03090.x},
+   url = {<Go to ISI>://WOS:A1995TP67300012},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Koukalova, B. and Fojtova, M. and Lim, K. Y. and Fulnecek, J. and Leitch, A. R. and Kovarik, A.},
+   title = {Dedifferentiation of tobacco cells is associated with ribosomal RNA gene hypomethylation, increased transcription, and chromatin alterations},
+   journal = {Plant Physiology},
+   volume = {139},
+   number = {1},
+   pages = {275-286},
+   note = {Times Cited: 48
+Fojtova, Miloslava/D-6815-2012
+0
+51},
+   ISSN = {0032-0889},
+   DOI = {10.1104/pp.105.061788},
+   url = {<Go to ISI>://WOS:000231765300026},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Koukalova, Blazena and Moraes, Ana Paula and Renny-Byfield, Simon and Matyasek, Roman and Leitch, Andrew Rowland and Kovarik, Ales},
+   title = {Fall and rise of satellite repeats in allopolyploids of Nicotiana over c. 5 million years},
+   journal = {New Phytologist},
+   volume = {186},
+   number = {1},
+   pages = {148-160},
+   note = {Times Cited: 28
+SI
+Kovarik, Ales/H-1952-2014
+0
+29},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2009.03101.x},
+   url = {<Go to ISI>://WOS:000275184700015},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, Ales and Dadejova, Martina and Lim, Yoong K. and Chase, Mark W. and Clarkson, James J. and Knapp, Sandra and Leitch, Andrew R.},
+   title = {Evolution of rDNA in Nicotiana allopolyploids: A potential link between rDNA homogenization and epigenetics},
+   journal = {Annals of Botany},
+   volume = {101},
+   number = {6},
+   pages = {815-823},
+   note = {Times Cited: 61
+Meeting on Plant Genome Horizons - Vistas and Visions
+APR 16-17, 2007
+Royal Bot Gardens, Kew, ENGLAND
+Chase, Mark /A-6642-2011; Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+1
+64},
+   ISSN = {0305-7364},
+   DOI = {10.1093/aob/mcn019},
+   url = {<Go to ISI>://WOS:000255150300008},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, A. and Koukalova, B. and Lim, K. Y. and Matyasek, R. and Lichtenstein, C. P. and Leitch, A. R. and Bezdek, M.},
+   title = {Comparative analysis of DNA methylation in tobacco heterochromatic sequences},
+   journal = {Chromosome Research},
+   volume = {8},
+   number = {6},
+   pages = {527-541},
+   note = {Times Cited: 38
+0
+39},
+   ISSN = {0967-3849},
+   DOI = {10.1023/a:1009223823327},
+   url = {<Go to ISI>://WOS:000089606700007},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, A. and Koukalova, B. and Lim, L. Z. and Matyasek, R. and Lichtenstein, C. P. and Leitch, A. R. and Bezdek, M.},
+   title = {Inhibition of tobacco DNA methyltransferase in vivo causes unequal hypomethylation of DNA repeated sequences},
+   journal = {Journal of Biomolecular Structure and Dynamics},
+   volume = {17},
+   number = {6},
+   pages = {1144-1145},
+   note = {Times Cited: 0
+Conference on DNA Structure and Interactions: Their Biological Roles and Implications in Biomedicine and Biotechnologies
+July 19-23, 2000
+Brno, Czech Republic
+0},
+   ISSN = {0739-1102},
+   url = {<Go to ISI>://BCI:BCI200100001403},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, Ales and Lim, Kar-Yoong and Souckova-Skalicka, Kamila and Matyasek, Roman and Leitch, Andrew R.},
+   title = {A plant culture (BY-2) widely used in molecular and cell studies is genetically unstable and highly heterogeneous},
+   journal = {Botanical Journal of the Linnean Society},
+   volume = {170},
+   number = {3},
+   pages = {459-471},
+   note = {Times Cited: 4
+Kovarik, Ales/H-1952-2014
+0
+4},
+   ISSN = {0024-4074},
+   DOI = {10.1111/j.1095-8339.2012.01280.x},
+   url = {<Go to ISI>://WOS:000310079500007},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, A. and Matyasek, R. and Lim, K. Y. and Skalicka, K. and Koukalova, B. and Knapp, S. and Chase, M. and Leitch, A. R.},
+   title = {Concerted evolution of 18-5.8-26S rDNA repeats in Nicotiana allotetraploids},
+   journal = {Biological Journal of the Linnean Society},
+   volume = {82},
+   number = {4},
+   pages = {615-625},
+   note = {Times Cited: 99
+International Polyploidy Conference
+APR 27-30, 2003
+Kew, ENGLAND
+Linnean Soc London; Royal Botan Gardens
+Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+0
+104},
+   ISSN = {0024-4066},
+   DOI = {10.1111/j.1095-8312.2004.00345.x},
+   url = {<Go to ISI>://WOS:000223808600020},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, A. and Pires, J. C. and Leitch, A. R. and Lim, K. Y. and Sherwood, A. M. and Matyasek, R. and Rocca, J. and Soltis, D. E. and Soltis, P. S.},
+   title = {Rapid concerted evolution of nuclear ribosomal DNA in two tragopogon allopolyploids of recent and recurrent origin},
+   journal = {Genetics},
+   volume = {169},
+   number = {2},
+   pages = {931-944},
+   note = {Times Cited: 129
+1
+136},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.104.032839},
+   url = {<Go to ISI>://WOS:000227697200036},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kovarik, A. and Werlemark, G. and Leitch, A. R. and Souckova-Skalicka, K. and Lim, Y. K. and Khaitova, L. and Koukalova, B. and Nybom, H.},
+   title = {The asymmetric meiosis in pentaploid dogroses (Rosa sect. Caninae) is associated with a skewed distribution of rRNA gene families in the gametes},
+   journal = {Heredity},
+   volume = {101},
+   number = {4},
+   pages = {359-367},
+   note = {Times Cited: 21
+0
+22},
+   ISSN = {0018-067X},
+   DOI = {10.1038/hdy.2008.63},
+   url = {<Go to ISI>://WOS:000259444900008},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Le Comber, S. C. and Ainouche, M. L. and Kovarik, A. and Leitch, A. R.},
+   title = {Making a functional diploid: from polysomic to disomic inheritance},
+   journal = {New Phytologist},
+   volume = {186},
+   number = {1},
+   pages = {113-122},
+   note = {Times Cited: 28
+SI
+Kovarik, Ales/H-1952-2014
+0
+28},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2009.03117.x},
+   url = {<Go to ISI>://WOS:000275184700012},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R.},
+   title = {FORMATION AND ULTRASTRUCTURE OF A COMPLEX, MULTILAYERED WALL AROUND THE OOSPORE OF CHARA AND LAMPROTHAMNIUM (CHARACEAE)},
+   journal = {British Phycological Journal},
+   volume = {24},
+   number = {3},
+   pages = {229-236},
+   note = {Times Cited: 15
+0
+15},
+   ISSN = {0007-1617},
+   url = {<Go to ISI>://WOS:A1989AR64200005},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R.},
+   title = {Higher levels of organization in the interphase nucleus of cycling and differentiated cells},
+   journal = {Microbiology and Molecular Biology Reviews},
+   volume = {64},
+   number = {1},
+   pages = {138-+},
+   note = {Times Cited: 61
+0
+61},
+   ISSN = {1092-2172},
+   DOI = {10.1128/mmbr.64.1.138-152.2000},
+   url = {<Go to ISI>://WOS:000085790100007},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R.},
+   title = {Conserved gene order belies rapid genome turnover - The dynamic interplay between genomic DNA and the outside world},
+   journal = {Heredity},
+   volume = {98},
+   number = {2},
+   pages = {61-62},
+   note = {Times Cited: 3
+0
+3},
+   ISSN = {0018-067X},
+   DOI = {10.1038/sj.hdy.6800924},
+   url = {<Go to ISI>://WOS:000243730100001},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Brown, J. K. M. and Mosgoller, W. and Schwarzacher, T. and Heslopharrison, J. S.},
+   title = {THE SPATIAL LOCALIZATION OF HOMOLOGOUS CHROMOSOMES IN HUMAN FIBROBLASTS AT MITOSIS},
+   journal = {Human Genetics},
+   volume = {93},
+   number = {3},
+   pages = {275-280},
+   note = {Times Cited: 27
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+28},
+   ISSN = {0340-6717},
+   DOI = {10.1007/bf00212022},
+   url = {<Go to ISI>://WOS:A1994MY44700009},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Glyn, M. C. P. and Kingham, K.},
+   title = {The organization of nuclei during cell differentiation},
+   journal = {Biologia Plantarum (Prague)},
+   volume = {36},
+   number = {SUPPL.},
+   pages = {S13-S13},
+   note = {Times Cited: 0
+9th Congress of the Federation of European Societies of Plant Physiology
+July 3-8, 1994
+Brno, Czech Republic
+0},
+   ISSN = {0006-3134},
+   url = {<Go to ISI>://BCI:BCI199598106510},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Leitch, A. R. and John, D. M. and Moore, J. A.},
+   title = {THE OOSPORANGIUM OF THE CHARACEAE CHLOROPHYTA CHARALES},
+   booktitle = {Round, F. E. And D. J. Chapman},
+   series = {Progress in Phycological Research},
+   pages = {213-268},
+   note = {Times Cited: 0
+ED.},
+   ISBN = {0167-8574
+0-948737-13-1},
+   url = {<Go to ISI>://BCI:BCI199141080836},
+   year = {1990},
+   type = {Book Section}
+}
+
+@article{
+   author = {Leitch, A. R. and Leitch, I. J.},
+   title = {Perspective - Genomic plasticity and the diversity of polyploid plants},
+   journal = {Science},
+   volume = {320},
+   number = {5875},
+   pages = {481-483},
+   note = {Times Cited: 247
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+1
+255},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1153585},
+   url = {<Go to ISI>://WOS:000255249300035},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Leitch, I. J.},
+   title = {Ecological and genetic factors linked to contrasting genome dynamics in seed plants},
+   journal = {New Phytologist},
+   volume = {194},
+   number = {3},
+   pages = {629-646},
+   note = {Times Cited: 32
+0
+32},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2012.04105.x},
+   url = {<Go to ISI>://WOS:000302618800006},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, Andrew R. and Leitch, Ilia J. and Trimmer, Mark and Guignard, Maite S. and Woodward, Guy},
+   title = {Impact of genomic diversity in river ecosystems},
+   journal = {Trends in Plant Science},
+   volume = {19},
+   number = {6},
+   pages = {361-366},
+   note = {Times Cited: 1
+0
+1},
+   ISSN = {1360-1385},
+   DOI = {10.1016/j.tplants.2013.12.005},
+   url = {<Go to ISI>://WOS:000337874600007},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Lim, K. Y. and Leitch, I. J. and O'Neill, M. and Chye, M. and Low, F.},
+   title = {Molecular cytogenetic studies in rubber, Hevea brasiliensis Muell. Arg. (Euphorbiaceae)},
+   journal = {Genome},
+   volume = {41},
+   number = {3},
+   pages = {464-467},
+   note = {Times Cited: 17
+Chye, Mee Len/A-2740-2010; Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+20},
+   ISSN = {0831-2796},
+   DOI = {10.1139/gen-41-3-464},
+   url = {<Go to ISI>://WOS:000075649700020},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@book{
+   author = {Leitch, Andrew R. and Lim, Kar Yoong and Skalicka, Kamila and Kovarik, Ales},
+   title = {Nuclear cytoplasmic interaction hypothesis and the role of translocations in Nicotiana allopolyploids},
+   volume = {9},
+   series = {Radiation Risk Estimates in Normal and Emergency Situations},
+   note = {Times Cited: 3
+NATO Advanced Research Workshop on Impact of Radiation Risk Estimates in Normal and Emergency Situations
+SEP 08-11, 2005
+Yerevan, ARMENIA
+NATO},
+   pages = {319-326},
+   ISBN = {978-1-4020-4954-5},
+   DOI = {10.1007/1-4020-4956-0_32},
+   url = {<Go to ISI>://WOS:000243842200032},
+   year = {2006},
+   type = {Book}
+}
+
+@article{
+   author = {Leitch, A. R. and Lim, Y. K. and Lichtenstein, C. P. and Matyasek, R. and Fulnecek, J. and Bezdek, M. and Kovarik, A.},
+   title = {Genome evolution, polyploidy and gene conversion in Nicotiana},
+   journal = {Journal of Biomolecular Structure and Dynamics},
+   volume = {17},
+   number = {6},
+   pages = {1146-1146},
+   note = {Times Cited: 0
+Conference on DNA Structure and Interactions: Their Biological Roles and Implications in Biomedicine and Biotechnologies
+July 19-23, 2000
+Brno, Czech Republic
+0},
+   ISSN = {0739-1102},
+   url = {<Go to ISI>://BCI:BCI200100001406},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Mosgoller, W. and Schwarzacher, T. and Bennett, M. D. and Heslopharrison, J. S.},
+   title = {GENOMIC INSITU HYBRIDIZATION TO SECTIONED NUCLEI SHOWS CHROMOSOME DOMAINS IN GRASS HYBRIDS},
+   journal = {Journal of Cell Science},
+   volume = {95},
+   pages = {335-341},
+   note = {Times Cited: 68
+3
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+75},
+   ISSN = {0021-9533},
+   url = {<Go to ISI>://WOS:A1990CV56200003},
+   year = {1990},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Mosgoller, W. and Shi, M. and Heslopharrison, J. S.},
+   title = {DIFFERENT PATTERNS OF RDNA ORGANIZATION AT INTERPHASE IN NUCLEI OF WHEAT AND RYE},
+   journal = {Journal of Cell Science},
+   volume = {101},
+   pages = {751-&},
+   note = {Times Cited: 68
+4
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+71},
+   ISSN = {0021-9533},
+   url = {<Go to ISI>://WOS:A1992HR16000003},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Leitch, A. R. and Schwarzacher, T. and Jackson, D. and Leitch, I. J.},
+   title = {Microscopy Handbooks, 27. In situ hybridization: A practical guide},
+   booktitle = {Microscopy Handbooks; In situ hybridization: A practical guide},
+   series = {Microscopy Handbooks},
+   volume = {27},
+   pages = {x+118p-x+118p},
+   note = {Times Cited: 0},
+   ISBN = {0957-0365
+1-872748-48-1},
+   url = {<Go to ISI>://BCI:BCI199497202559},
+   year = {1994},
+   type = {Book Section}
+}
+
+@article{
+   author = {Leitch, A. R. and Schwarzacher, T. and Leitch, I. J.},
+   title = {THE USE OF FLUOROCHROMES IN THE CYTOGENETICS OF THE SMALL-GRAINED CEREALS (TRITICEAE)},
+   journal = {Histochemical Journal},
+   volume = {26},
+   number = {6},
+   pages = {471-479},
+   note = {Times Cited: 8
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+8},
+   ISSN = {0018-2214},
+   DOI = {10.1007/bf00157892},
+   url = {<Go to ISI>://WOS:A1994NT78000001},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Schwarzacher, T. and Mosgoller, W. and Bennett, M. D. and Heslopharrison, J. S.},
+   title = {PARENTAL GENOMES ARE SEPARATED THROUGHOUT THE CELL-CYCLE IN A PLANT HYBRID},
+   journal = {Chromosoma},
+   volume = {101},
+   number = {4},
+   pages = {206-213},
+   note = {Times Cited: 86
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+90},
+   ISSN = {0009-5915},
+   DOI = {10.1007/bf00365152},
+   url = {<Go to ISI>://WOS:A1991GV35000002},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, A. R. and Schwarzacher, T. and Wang, M. L. and Leitch, I. J. and Surlanmomirovich, G. and Moore, G. and Heslopharrison, J. S. P.},
+   title = {MOLECULAR CYTOGENETIC ANALYSIS OF REPEATED SEQUENCES IN A LONG-TERM WHEAT SUSPENSION-CULTURE},
+   journal = {Plant Cell Tissue and Organ Culture},
+   volume = {33},
+   number = {3},
+   pages = {287-296},
+   note = {Times Cited: 29
+Heslop-Harrison, JS/C-9207-2009; Leitch, Ilia/D-6052-2011
+Heslop-Harrison, JS/0000-0002-3105-2167; Leitch, Ilia/0000-0002-3837-8186
+0
+31},
+   ISSN = {0167-6857},
+   DOI = {10.1007/bf02319014},
+   url = {<Go to ISI>://WOS:A1993LG82900011},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, I. J. and Hanson, L. and Lim, K. Y. and Kovarik, A. and Chase, M. W. and Clarkson, J. J. and Leitch, A. R.},
+   title = {The ups and downs of genome size evolution in polyploid species of Nicotiana (Solanaceae)},
+   journal = {Annals of Botany},
+   volume = {101},
+   number = {6},
+   pages = {805-814},
+   note = {Times Cited: 90
+Meeting on Plant Genome Horizons - Vistas and Visions
+APR 16-17, 2007
+Royal Bot Gardens, Kew, ENGLAND
+Chase, Mark /A-6642-2011; Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+91},
+   ISSN = {0305-7364},
+   DOI = {10.1093/aob/mcm326},
+   url = {<Go to ISI>://WOS:000255150300007},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, I. J. and Hartman, T. and Lim, Y. and Adams, S. and Chase, M. and Bennett, M. D. and Leitch, A. R.},
+   title = {Loss of "typical" telomere repeat sequences from a major radiation of monocots},
+   journal = {Chromosome Research},
+   volume = {9},
+   number = {Supplement 1},
+   pages = {41-41},
+   note = {Times Cited: 0
+14th International Chromosome Conference
+September 04-08, 2001
+Wuerzburg, Germany
+0},
+   ISSN = {0967-3849},
+   url = {<Go to ISI>://BCI:BCI200100577009},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Leitch, I. J. and Leitch, A. R. and Heslopharrison, J. S.},
+   title = {PHYSICAL MAPPING OF PLANT DNA-SEQUENCES BY SIMULTANEOUS INSITU HYBRIDIZATION OF 2 DIFFERENTLY LABELED FLUORESCENT-PROBES},
+   journal = {Genome},
+   volume = {34},
+   number = {3},
+   pages = {329-333},
+   note = {Times Cited: 91
+Heslop-Harrison, JS/C-9207-2009; Leitch, Ilia/D-6052-2011
+Heslop-Harrison, JS/0000-0002-3105-2167; Leitch, Ilia/0000-0002-3837-8186
+0
+94},
+   ISSN = {0831-2796},
+   url = {<Go to ISI>://WOS:A1991FV04700004},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Kovarik, A. and Matyasek, R. and Bezdek, M. and Lichtenstein, C. P. and Leitch, A. R.},
+   title = {Gene conversion of ribosomal DNA in Nicotiana tabacum is associated with undermethylated, decondensed and probably active gene units},
+   journal = {Chromosoma},
+   volume = {109},
+   number = {3},
+   pages = {161-172},
+   note = {Times Cited: 90
+1
+94},
+   ISSN = {0009-5915},
+   url = {<Go to ISI>://WOS:000088157700001},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Yoong and Kovarik, Ales and Matyasek, Roman and Chase, Mark W. and Clarkson, James J. and Grandbastien, M. A. and Leitch, Andrew R.},
+   title = {Sequence of events leading to near-complete genome turnover in allopolyploid Nicotiana within five million years},
+   journal = {New Phytologist},
+   volume = {175},
+   number = {4},
+   pages = {756-763},
+   note = {Times Cited: 70
+Chase, Mark /A-6642-2011; Grandbastien, Marie-Angele/K-5491-2013
+0
+72},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2007.02121.x},
+   url = {<Go to ISI>://WOS:000249098400016},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Yoong and Kovarik, Ales and Matyasek, Roman and Chase, Mark W. and Knapp, Sandra and McCarthy, Elizabeth and Clarkson, James J. and Leitch, Andrew R.},
+   title = {Comparative genomics and repetitive sequence divergence in the species of diploid Nicotiana section Alatae},
+   journal = {Plant Journal},
+   volume = {48},
+   number = {6},
+   pages = {907-919},
+   note = {Times Cited: 42
+Chase, Mark /A-6642-2011; Knapp, Sandra/A-4856-2011
+Knapp, Sandra/0000-0001-7698-3945
+0
+43},
+   ISSN = {0960-7412},
+   DOI = {10.1111/j.1365-313X.2006.02930.x},
+   url = {<Go to ISI>://WOS:000242870600007},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Leitch, I. J. and Leitch, A. R.},
+   title = {Genomic characterisation and the detection of raspberry chromatin in polyploid Rubus},
+   journal = {Theoretical and Applied Genetics},
+   volume = {97},
+   number = {7},
+   pages = {1027-1033},
+   note = {Times Cited: 42
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+51},
+   ISSN = {0040-5752},
+   DOI = {10.1007/s001220050987},
+   url = {<Go to ISI>://WOS:000077465100003},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Matyasek, R. and Fulnecek, J. and Koukalova, B. and Murad, L. and Kovarik, A. and Lichtenstein, C. P. and Leitch, A. R.},
+   title = {Evolution in Nicotiana section Tomentosae},
+   journal = {Chromosome Research},
+   volume = {9},
+   number = {Supplement 1},
+   pages = {112-113},
+   note = {Times Cited: 0
+14th International Chromosome Conference
+September 04-08, 2001
+Wuerzburg, Germany
+0},
+   ISSN = {0967-3849},
+   url = {<Go to ISI>://BCI:BCI200100577079},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Matyasek, R. and Kovarik, A. and Fulnecek, J. and Leitch, A. R.},
+   title = {Molecular cytogenetics and tandem repeat sequence evolution in the allopolyploid Nicotiana rustica compared with diploid progenitors N-paniculata and N-undulata},
+   journal = {Cytogenetic and Genome Research},
+   volume = {109},
+   number = {1-3},
+   pages = {298-309},
+   note = {Times Cited: 18
+0
+21},
+   ISSN = {1424-8581},
+   DOI = {10.1159/000082413},
+   url = {<Go to ISI>://WOS:000227984300039},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Matyasek, R. and Kovarik, A. and Leitch, A. R.},
+   title = {Genome evolution in allotetraploid Nicotiana},
+   journal = {Biological Journal of the Linnean Society},
+   volume = {82},
+   number = {4},
+   pages = {599-606},
+   note = {Times Cited: 90
+International Polyploidy Conference
+APR 27-30, 2003
+Kew, ENGLAND
+Linnean Soc London; Royal Botan Gardens
+0
+93},
+   ISSN = {0024-4066},
+   DOI = {10.1111/j.1095-8312.2004.00344.x},
+   url = {<Go to ISI>://WOS:000223808600018},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Matyasek, R. and Lichtenstein, C. P. and Leitch, A. R.},
+   title = {Molecular cytogenetic analyses and phylogenetic studies in the Nicotiana section Tomentosae},
+   journal = {Chromosoma},
+   volume = {109},
+   number = {4},
+   pages = {245-258},
+   note = {Times Cited: 119
+4
+123},
+   ISSN = {0009-5915},
+   DOI = {10.1007/s004120000074},
+   url = {<Go to ISI>://WOS:000088496700004},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Skalicka, K. and Koukalova, B. and Volkov, R. A. and Matyasek, R. and Hemleben, V. and Leitch, A. R. and Kovarik, A.},
+   title = {Dynamic changes in the distribution of a satellite homologous to intergenic 26-18S rDNA spacer in the evolution of Nicotiana},
+   journal = {Genetics},
+   volume = {166},
+   number = {4},
+   pages = {1935-1946},
+   note = {Times Cited: 40
+2
+42},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.166.4.1935},
+   url = {<Go to ISI>://WOS:000221377700029},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Yoong and Soltis, Douglas E. and Soltis, Pamela S. and Tate, Jennifer and Matyasek, Roman and Srubarova, Hana and Kovarik, Ales and Pires, J. Chris and Xiong, Zhiyong and Leitch, Andrew R.},
+   title = {Rapid Chromosome Evolution in Recently Formed Polyploids in Tragopogon (Asteraceae)},
+   journal = {Plos One},
+   volume = {3},
+   number = {10},
+   note = {Times Cited: 77
+0
+79},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0003353},
+   url = {<Go to ISI>://WOS:000265114100002},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Souckova-Skalicka, K. and Sarasan, V. and Clarkson, J. J. and Chase, M. W. and Kovarik, A. and Leitch, A. R.},
+   title = {A genetic appraisal of a new synthetic Nicotiana tabacum (Solanaceae) and the Kostoff synthetic tobacco},
+   journal = {American Journal of Botany},
+   volume = {93},
+   number = {6},
+   pages = {875-883},
+   note = {Times Cited: 32
+Chase, Mark /A-6642-2011
+0
+32},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.93.6.875},
+   url = {<Go to ISI>://WOS:000237941600009},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, K. Y. and Werlemark, G. and Matyasek, R. and Bringloe, J. B. and Sieber, V. and El Mokadem, H. and Meynet, J. and Hemming, J. and Leitch, A. R. and Roberts, A. V.},
+   title = {Evolutionary implications of permanent odd polyploidy in the stable sexual, pentaploid of Rosa canina L},
+   journal = {Heredity},
+   volume = {94},
+   number = {5},
+   pages = {501-506},
+   note = {Times Cited: 32
+0
+38},
+   ISSN = {0018-067X},
+   DOI = {10.1038/sj.hdy.6800648},
+   url = {<Go to ISI>://WOS:000228692200008},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, Y. K. M. and Matyasek, R. and Leitch, A. R. and Lichtenstein, C. P.},
+   title = {The organization of geminivirus-related DNA in the genome of tobacco},
+   journal = {Cytogenetics and Cell Genetics},
+   volume = {81},
+   number = {2},
+   pages = {130-130},
+   note = {Times Cited: 1
+S
+0
+1},
+   ISSN = {0301-0171},
+   url = {<Go to ISI>://WOS:000075654800120},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lim, Y. K. M. and Matyasek, R. and Leitch, A. R. and Lichtenstein, C. P.},
+   title = {The organization of geminivirus-related DNA in the genome of tobacco},
+   journal = {Cytogenetics and Cell Genetics},
+   volume = {81},
+   number = {2},
+   pages = {130-130},
+   note = {Times Cited: 0
+13th International Chromosome Conference
+September 8-12, 1998
+Ancona, Italy
+0},
+   ISSN = {0301-0171},
+   url = {<Go to ISI>://BIOSIS:PREV199800464887},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Malinska, Hana and Tate, Jennifer A. and Matyasek, Roman and Leitch, Andrew R. and Soltis, Douglas E. and Soltis, Pamela S. and Kovarik, Ales},
+   title = {Similar patterns of rDNA evolution in synthetic and recently formed natural populations of Tragopogon (Asteraceae) allotetraploids},
+   journal = {Bmc Evolutionary Biology},
+   volume = {10},
+   note = {Times Cited: 24
+Kovarik, Ales/H-1952-2014
+0
+24},
+   ISSN = {1471-2148},
+   DOI = {10.1186/1471-2148-10-291},
+   url = {<Go to ISI>://WOS:000282770500001},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Malinska, Hana and Tate, Jennifer A. and Mavrodiev, Evgeny and Matyasek, Roman and Lim, K. Yoong and Leitch, Andrew R. and Soltis, Douglas E. and Soltis, Pamela S. and Kovarik, Ales},
+   title = {Ribosomal RNA genes evolution in Tragopogon: A story of New and Old World allotetraploids and the synthetic lines},
+   journal = {Taxon},
+   volume = {60},
+   number = {2},
+   pages = {348-354},
+   note = {Times Cited: 3
+Kovarik, Ales/H-1952-2014
+0
+3},
+   ISSN = {0040-0262},
+   url = {<Go to ISI>://WOS:000289587100005},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Matyasek, Roman and Fulnecek, Jaroslav and Leitch, Andrew R. and Kovarik, Ales},
+   title = {Analysis of two abundant, highly related satellites in the allotetraploid Nicotiana arentsii using double-strand conformation polymorphism analysis and sequencing},
+   journal = {New Phytologist},
+   volume = {192},
+   number = {3},
+   pages = {747-759},
+   note = {Times Cited: 5
+Kovarik, Ales/H-1952-2014
+0
+5},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2011.03827.x},
+   url = {<Go to ISI>://WOS:000296850800020},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Matyasek, R. and Fulnecek, J. and Lim, K. Y. and Leitch, A. R. and Kovarik, A.},
+   title = {Evolution of 5S rDNA unit arrays in the plant genus Nicotiana (Solanaceae)},
+   journal = {Genome},
+   volume = {45},
+   number = {3},
+   pages = {556-562},
+   note = {Times Cited: 16
+1
+16},
+   ISSN = {0831-2796},
+   DOI = {10.1139/g02-017},
+   url = {<Go to ISI>://WOS:000175373300013},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Matyasek, R. and Lim, K. Y. and Fulnecek, J. and Leitch, A. R. and Kovarik, A.},
+   title = {Two families of 5S rDNA in allotetraploid N. tabacum},
+   journal = {Journal of Biomolecular Structure and Dynamics},
+   volume = {17},
+   number = {6},
+   pages = {1148-1148},
+   note = {Times Cited: 0
+Conference on DNA Structure and Interactions: Their Biological Roles and Implications in Biomedicine and Biotechnologies
+July 19-23, 2000
+Brno, Czech Republic
+0},
+   ISSN = {0739-1102},
+   url = {<Go to ISI>://BCI:BCI200100001410},
+   year = {2000},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Matyasek, R. and Lim, K. Y. and Kovarik, A. and Leitch, A. R.},
+   title = {Gene conversion in allotetraploid N. rustica by paternal genome N. paniculata},
+   journal = {Chromosome Research},
+   volume = {9},
+   number = {Supplement 1},
+   pages = {97-97},
+   note = {Times Cited: 0
+14th International Chromosome Conference
+September 04-08, 2001
+Wuerzburg, Germany
+0},
+   ISSN = {0967-3849},
+   url = {<Go to ISI>://BCI:BCI200100569931},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Matyasek, R. and Lim, K. Y. and Kovarik, A. and Leitch, A. R.},
+   title = {Ribosomal DNA evolution and gene conversion in Nicotiana rustica},
+   journal = {Heredity},
+   volume = {91},
+   number = {3},
+   pages = {268-275},
+   note = {Times Cited: 24
+1
+27},
+   ISSN = {0018-067X},
+   DOI = {10.1038/sj.hdy.6800333},
+   url = {<Go to ISI>://WOS:000185076200011},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Matyasek, Roman and Tate, Jennifer A. and Lim, Yoong K. and Srubarova, Hana and Koh, Jin and Leitch, Andrew R. and Soltis, Douglas E. and Soltis, Pamela S. and Kovarik, Ales},
+   title = {Concerted evolution of rDNA in recently formed tragopogon allotetraploids is typically associated with an inverse correlation between gene copy number and expression},
+   journal = {Genetics},
+   volume = {176},
+   number = {4},
+   pages = {2509-2519},
+   note = {Times Cited: 42
+0
+43},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.107.072751},
+   url = {<Go to ISI>://WOS:000249530000048},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {McCarthy, Elizabeth W. and Arnold, Sarah E. J. and Chittka, Lars and Le Comber, Steven C. and Verity, Robert and Dodsworth, Steven and Knapp, Sandra and Kelly, Laura J. and Chase, Mark W. and Baldwin, Ian T. and Kovarik, Ales and Mhiri, Corinne and Taylor, Lin and Leitch, Andrew R.},
+   title = {The effect of polyploidy and hybridization on the evolution of floral colour in Nicotiana (Solanaceae)},
+   journal = {Annals of Botany},
+   volume = {115},
+   number = {7},
+   pages = {1117-1131},
+   note = {Times Cited: 0
+0},
+   ISSN = {0305-7364},
+   url = {<Go to ISI>://CCC:000355625300006},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Melayah, D. and Lim, K. Y. and Bonnivard, E. and Chalhoub, B. and De Borne, F. D. and Mhiri, C. and Leitch, A. R. and Grandbastien, M. A.},
+   title = {Distribution of the Tnt1 retrotransposon family in the amphidiploid tobacco (Nicotiana tabacum) and its wild Nicotiana relatives},
+   journal = {Biological Journal of the Linnean Society},
+   volume = {82},
+   number = {4},
+   pages = {639-649},
+   note = {Times Cited: 24
+International Polyploidy Conference
+APR 27-30, 2003
+Kew, ENGLAND
+Linnean Soc London; Royal Botan Gardens
+Grandbastien, Marie-Angele/K-5491-2013
+0
+24},
+   ISSN = {0024-4066},
+   DOI = {10.1111/j.1095-8312.2004.00348.x},
+   url = {<Go to ISI>://WOS:000223808600022},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Mlinarec, Jelena and Chester, Mike and Siljak-Yakovlev, Sonja and Papes, Drazena and Leitch, Andrew R. and Besendorfer, Visnja},
+   title = {Molecular structure and chromosome distribution of three repetitive DNA families in Anemone hortensis L. (Ranunculaceae)},
+   journal = {Chromosome Research},
+   volume = {17},
+   number = {3},
+   pages = {331-346},
+   note = {Times Cited: 7
+0
+7},
+   ISSN = {0967-3849},
+   DOI = {10.1007/s10577-009-9025-2},
+   url = {<Go to ISI>://WOS:000266079100004},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Moraes, Ana Paula and Leitch, Ilia J. and Leitch, Andrew R.},
+   title = {Chromosome studies in Orchidaceae: karyotype divergence in Neotropical genera in subtribe Maxillariinae},
+   journal = {Botanical Journal of the Linnean Society},
+   volume = {170},
+   number = {1},
+   pages = {29-39},
+   note = {Times Cited: 5
+0
+5},
+   ISSN = {0024-4074},
+   DOI = {10.1111/j.1095-8339.2012.01266.x},
+   url = {<Go to ISI>://WOS:000307386500003},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Mosgoller, W. and Leitch, A. R. and Brown, J. K. M. and Heslopharrison, J. S.},
+   title = {CHROMOSOME ARRANGEMENTS IN HUMAN FIBROBLASTS AT MITOSIS},
+   journal = {Human Genetics},
+   volume = {88},
+   number = {1},
+   pages = {27-33},
+   note = {Times Cited: 34
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+1
+34},
+   ISSN = {0340-6717},
+   DOI = {10.1007/bf00204924},
+   url = {<Go to ISI>://WOS:A1991GR27800004},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Murad, L. and Bielawski, J. P. and Matyasek, R. and Kovarik, A. and Nichols, R. A. and Leitch, A. R. and Lichtenstein, C. P.},
+   title = {The origin and evolution of geminivirus-related DNA sequences in Nicotiana},
+   journal = {Heredity},
+   volume = {92},
+   number = {4},
+   pages = {352-358},
+   note = {Times Cited: 34
+Nichols, Richard/B-7732-2008
+Nichols, Richard/0000-0002-4801-9312
+0
+38},
+   ISSN = {0018-067X},
+   DOI = {10.1038/sj.hdy.6800431},
+   url = {<Go to ISI>://WOS:000220403600012},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Murad, L. and Kovarik, A. and Lim, K. Y. and Matyasek, R. and Lichtenstein, C. P. and Leitch, A. R.},
+   title = {Nicotiana tabacum formed after the divergence of N. tomentosiformis cytotypes},
+   journal = {Chromosome Research},
+   volume = {9},
+   number = {Supplement 1},
+   pages = {114-114},
+   note = {Times Cited: 0
+14th International Chromosome Conference
+September 04-08, 2001
+Wuerzburg, Germany
+0},
+   ISSN = {0967-3849},
+   url = {<Go to ISI>://BCI:BCI200100577081},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Murad, L. and Lim, K. Y. and Christopodulou, V. and Matyasek, R. and Lichtenstein, C. P. and Kovarik, A. and Leitch, A. R.},
+   title = {The origin of tobacco's T genome is traced to a particular lineage within Nicotiana tomentosiformis (Solanaceae)},
+   journal = {American Journal of Botany},
+   volume = {89},
+   number = {6},
+   pages = {921-928},
+   note = {Times Cited: 66
+0
+68},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.89.6.921},
+   url = {<Go to ISI>://WOS:000178098900004},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Parisod, Christian and Mhiri, Corinne and Lim, K. Yoong and Clarkson, James J. and Chase, Mark W. and Leitch, Andrew R. and Grandbastien, Marie-Angele},
+   title = {Differential Dynamics of Transposable Elements during Long-Term Diploidization of Nicotiana Section Repandae (Solanaceae) Allopolyploid Genomes},
+   journal = {Plos One},
+   volume = {7},
+   number = {11},
+   note = {Times Cited: 10
+Parisod, Christian/A-1140-2010; Chase, Mark /A-6642-2011; Grandbastien, Marie-Angele/K-5491-2013
+Parisod, Christian/0000-0001-8798-0897;
+0
+10},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0050352},
+   url = {<Go to ISI>://WOS:000311821000220},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Peska, Vratislav and Fajkus, Petr and Fojtova, Miloslava and Dvorackova, Martina and Hapala, Jan and Dvoracek, Vojtech and Polanska, Pavla and Leitch, Andrew R. and Sykorova, Eva and Fajkus, Jiri},
+   title = {Characterisation of an unusual telomere motif (TTTTTTAGGG)(n) in the plant Cestrum elegans (Solanaceae), a species with a large genome},
+   journal = {Plant Journal},
+   volume = {82},
+   number = {4},
+   pages = {644-654},
+   note = {Times Cited: 0
+Fajkus, Jiri/D-2499-2012
+0},
+   ISSN = {0960-7412},
+   DOI = {10.1111/tpj.12839},
+   url = {<Go to ISI>://WOS:000354288500009},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Petit, M. and Guidat, C. and Daniel, J. and Denis, E. and Montoriol, E. and Bui, Q. T. and Lim, K. Y. and Kovarik, A. and Leitch, A. R. and Grandbastien, M. A. and Mhiri, C.},
+   title = {Mobilization of retrotransposons in synthetic allotetraploid tobacco},
+   journal = {New Phytologist},
+   volume = {186},
+   number = {1},
+   pages = {135-147},
+   note = {Times Cited: 57
+SI
+Grandbastien, Marie-Angele/K-5491-2013; Kovarik, Ales/H-1952-2014
+0
+58},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2009.03140.x},
+   url = {<Go to ISI>://WOS:000275184700014},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Petit, Maud and Lim, K. Yoong and Julio, Emilie and Poncet, Charles and de Borne, Francois Dorlhac and Kovarik, Ales and Leitch, Andrew R. and Grandbastien, Marie-Angele and Mhiri, Corinne},
+   title = {Differential impact of retrotransposon populations on the genome of allotetraploid tobacco (Nicotiana tabacum)},
+   journal = {Molecular Genetics and Genomics},
+   volume = {278},
+   number = {1},
+   pages = {1-15},
+   note = {Times Cited: 45
+Petit, Maud/A-2770-2010; Grandbastien, Marie-Angele/K-5491-2013
+0
+53},
+   ISSN = {1617-4615},
+   DOI = {10.1007/s00438-007-0226-0},
+   url = {<Go to ISI>://WOS:000247243000001},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Pires, J. C. and Lim, K. Y. and Kovarik, A. and Matyasek, R. and Boyd, A. and Leitch, A. R. and Leitch, I. J. and Bennett, M. D. and Soltis, P. S. and Soltis, D. E.},
+   title = {Molecular cytogenetic analysis of recently evolved Tragopogon (Asteraceae) allopolyploids reveal a karyotype that is additive of the diploid progenitors},
+   journal = {American Journal of Botany},
+   volume = {91},
+   number = {7},
+   pages = {1022-1035},
+   note = {Times Cited: 61
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+1
+63},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.91.7.1022},
+   url = {<Go to ISI>://WOS:000222964400002},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Renny-Byfield, Simon and Ainouche, Malika and Leitch, Ilia J. and Lim, K. Yoong and Le Comber, Steven C. and Leitch, Andrew R.},
+   title = {Flow cytometry and GISH reveal mixed ploidy populations and Spartina nonaploids with genomes of S. alterniflora and S. maritima origin},
+   journal = {Annals of Botany},
+   volume = {105},
+   number = {4},
+   pages = {527-533},
+   note = {Times Cited: 12
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+13},
+   ISSN = {0305-7364},
+   DOI = {10.1093/aob/mcq008},
+   url = {<Go to ISI>://WOS:000276544200016},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Renny-Byfield, Simon and Chester, Michael and Kovarik, Ales and Le Comber, Steven C. and Grandbastien, Marie-Angele and Deloger, Marc and Nichols, Richard A. and Macas, Jiri and Novak, Petr and Chase, Mark W. and Leitch, Andrew R.},
+   title = {Next Generation Sequencing Reveals Genome Downsizing in Allotetraploid Nicotiana tabacum, Predominantly through the Elimination of Paternally Derived Repetitive DNAs},
+   journal = {Molecular Biology and Evolution},
+   volume = {28},
+   number = {10},
+   pages = {2843-2854},
+   note = {Times Cited: 40
+Chase, Mark /A-6642-2011; Novak, Petr/A-3059-2013; Grandbastien, Marie-Angele/K-5491-2013; Macas, Jiri/G-8618-2014; Kovarik, Ales/H-1952-2014
+Novak, Petr/0000-0002-5068-9681; Macas, Jiri/0000-0003-0829-1570;
+0
+41},
+   ISSN = {0737-4038},
+   DOI = {10.1093/molbev/msr112},
+   url = {<Go to ISI>://WOS:000295184200013},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Renny-Byfield, Simon and Kovarik, Ales and Chester, Michael and Nichols, Richard A. and Macas, Jiri and Novak, Petr and Leitch, Andrew R.},
+   title = {Independent, Rapid and Targeted Loss of Highly Repetitive DNA in Natural and Synthetic Allopolyploids of Nicotiana tabacum},
+   journal = {Plos One},
+   volume = {7},
+   number = {5},
+   note = {Times Cited: 14
+Novak, Petr/A-3059-2013; Macas, Jiri/G-8618-2014; Kovarik, Ales/H-1952-2014
+Novak, Petr/0000-0002-5068-9681; Macas, Jiri/0000-0003-0829-1570;
+0
+14},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0036963},
+   url = {<Go to ISI>://WOS:000305339400047},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Renny-Byfield, Simon and Kovarik, Ales and Kelly, Laura J. and Macas, Jiri and Novak, Petr and Chase, Mark W. and Nichols, Richard A. and Pancholi, Mahesh R. and Grandbastien, Marie-Angele and Leitch, Andrew R.},
+   title = {Diploidization and genome size change in allopolyploids is associated with differential dynamics of low- and high-copy sequences},
+   journal = {Plant Journal},
+   volume = {74},
+   number = {5},
+   pages = {829-839},
+   note = {Times Cited: 13
+Novak, Petr/A-3059-2013; Chase, Mark /A-6642-2011; Grandbastien, Marie-Angele/K-5491-2013; Macas, Jiri/G-8618-2014; Kovarik, Ales/H-1952-2014
+Novak, Petr/0000-0002-5068-9681; Macas, Jiri/0000-0003-0829-1570;
+0
+13},
+   ISSN = {0960-7412},
+   DOI = {10.1111/tpj.12168},
+   url = {<Go to ISI>://WOS:000319512900010},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Robert, Manuel L. and Lim, K. Yoong and Hanson, Lynda and Sanchez-Teyer, Filipe and Bennett, Michael D. and Leitch, Andrew R. and Leitch, Ilia J.},
+   title = {Wild and agronomically important Agave species (Asparagaceae) show proportional increases in chromosome number, genome size, and genetic markers with increasing ploidy},
+   journal = {Botanical Journal of the Linnean Society},
+   volume = {158},
+   number = {2},
+   pages = {215-222},
+   note = {Times Cited: 4
+Leitch, Ilia/D-6052-2011
+Leitch, Ilia/0000-0002-3837-8186
+0
+5},
+   ISSN = {0024-4074},
+   DOI = {10.1111/j.1095-8339.2008.00831.x},
+   url = {<Go to ISI>://WOS:000259508400001},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Rotkova, G. and Sklenickova, M. and Dvorackova, M. and Sykorova, E. and Leitch, A. R. and Fajkus, J.},
+   title = {An evolutionary change in telomere sequence motif within the plant section Asparagales had significance for telomere nucleoprotein complexes},
+   journal = {Cytogenetic and Genome Research},
+   volume = {107},
+   number = {1-2},
+   pages = {132-138},
+   note = {Times Cited: 15
+15th International Chromosome Conference
+SEP 05-10, 2004
+Brunel Univ, London, ENGLAND
+Fajkus, Jiri/D-2499-2012; Rotkova, Gabriela/D-7231-2012; Sykorova, Eva/D-9118-2012; Dvorackova, Martina/D-9646-2012
+0
+15},
+   ISSN = {1424-8581},
+   DOI = {10.1159/000079584},
+   url = {<Go to ISI>://WOS:000224244100023},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Rotkova, G. and Sklenickova, M. and Dvorackova, M. and Sykorova, E. and Leitch, A. R. and Fajkus, J.},
+   title = {An evolutionary change in telomere sequence motif within the plant section Asparagales had significance for telomere nucleoprotein complexes (vol 104, pg 132, 2004)},
+   journal = {Cytogenetic and Genome Research},
+   volume = {109},
+   number = {4},
+   pages = {535-535},
+   note = {Times Cited: 0
+Fajkus, Jiri/D-2499-2012; Rotkova, Gabriela/D-7231-2012; Sykorova, Eva/D-9118-2012
+0},
+   ISSN = {1424-8581},
+   url = {<Go to ISI>://WOS:000228996500013},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Salina, Elena A. and Lim, K. Yoong and Badaeva, Ekaterina D. and Shcherban, Andrey B. and Adonina, Irina G. and Amosova, Alexandra V. and Samatadze, Tatiana E. and Vatolina, Tatyana Yu and Zoshchuk, Sviatoslav A. and Leitch, Andrew R.},
+   title = {Phylogenetic reconstruction of Aegilops section Sitopsis and the evolution of tandem repeats in the diploids and derived wheat polyploids},
+   journal = {Genome},
+   volume = {49},
+   number = {8},
+   pages = {1023-1035},
+   note = {Times Cited: 35
+Zykova (Vatolina), Tatyana (Tatiana)/I-3897-2014
+0
+36},
+   ISSN = {0831-2796},
+   DOI = {10.1139/g06-050},
+   url = {<Go to ISI>://WOS:000242211800019},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Schwarzacher, T. and Anamthawatjonsson, K. and Harrison, G. E. and Islam, Akmr and Jia, J. Z. and King, I. P. and Leitch, A. R. and Miller, T. E. and Reader, S. M. and Rogers, W. J. and Shi, M. and Heslopharrison, J. S.},
+   title = {GENOMIC INSITU HYBRIDIZATION TO IDENTIFY ALIEN CHROMOSOMES AND CHROMOSOME SEGMENTS IN WHEAT},
+   journal = {Theoretical and Applied Genetics},
+   volume = {84},
+   number = {7-8},
+   pages = {778-786},
+   note = {Times Cited: 172
+0
+188},
+   ISSN = {0040-5752},
+   url = {<Go to ISI>://WOS:A1992JT30000002},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Schwarzacher, T. and Leitch, A. R.},
+   title = {Enzymatic treatment of plant material to spread chromosomes for in situ hybridization},
+   journal = {Methods in molecular biology (Clifton, N.J.)},
+   volume = {28},
+   pages = {153-60},
+   note = {Times Cited: 24
+0
+24},
+   ISSN = {1064-3745},
+   url = {<Go to ISI>://MEDLINE:8118505},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Schwarzacher, T. and Leitch, A. R. and Bennett, M. D. and Heslopharrison, J. S.},
+   title = {INSITU LOCALIZATION OF PARENTAL GENOMES IN A WIDE HYBRID},
+   journal = {Annals of Botany},
+   volume = {64},
+   number = {3},
+   pages = {315-324},
+   note = {Times Cited: 375
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+405},
+   ISSN = {0305-7364},
+   url = {<Go to ISI>://WOS:A1989AM24000011},
+   year = {1989},
+   type = {Journal Article}
+}
+
+@inbook{
+   author = {Schwarzacher, T. and Leitch, A. R. and Heslop-Harrison, J. S.},
+   title = {DNA-DNA in situ hybridization: Methods for light microscopy},
+   booktitle = {Practical Approach Series; Plant cell biology},
+   editor = {Harris, N. and Oparka, K. J.},
+   series = {Practical Approach Series},
+   volume = {139},
+   pages = {127-155},
+   note = {Times Cited: 41
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167},
+   ISBN = {0957-025X
+0-19-963399-1 (paper); 0-19-963398-3 (cloth)},
+   url = {<Go to ISI>://BCI:BCI199598339134},
+   year = {1994},
+   type = {Book Section}
+}
+
+@book{
+   author = {Schwarzacher, T. and Leitch, A. R. and Heslopharrison, J. S.},
+   title = {INSITU HYBRIDIZATION AND THE ARCHITECTURE OF THE NUCLEUS},
+   volume = {1},
+   series = {Transactions of the Royal Microscopical Society : New Series, Vol 1: Micro 90},
+   note = {Times Cited: 6
+CONF OF THE ROYAL MICROSCOPICAL SOC
+JUL 02-06, 1990
+LONDON, ENGLAND
+ROYAL MICROSCOP SOC; AMERSHAM INT},
+   pages = {669-674},
+   ISBN = {0-7503-0064-7},
+   url = {<Go to ISI>://WOS:A1990BS77P00155},
+   year = {1990},
+   type = {Book}
+}
+
+@article{
+   author = {Schwarzacher, T. and Wang, M. L. and Leitch, A. R. and Miller, N. and Moore, G. and HeslopHarrison, J. S.},
+   title = {Flow cytometric analysis of the chromosomes and stability of a wheat cell-culture line},
+   journal = {Theoretical and Applied Genetics},
+   volume = {94},
+   number = {1},
+   pages = {91-97},
+   note = {Times Cited: 25
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+28},
+   ISSN = {0040-5752},
+   url = {<Go to ISI>://WOS:A1997WJ13100013},
+   year = {1997},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Skalicka, K. and Lim, K. Y. and Koukalova, B. and Volkov, R. A. and Matyasek, R. and Hemleben, V. and Leitch, A. R. and Kovarik, A.},
+   title = {EVOLUTION OF A RAPIDLY SPREADING SATELLITE HOMOLOGOUS TO INTERGENIC 26-18S RDNA SPACER IN NATURAL AND SYNTHETIC NICOTIANA SPECIES},
+   journal = {Acta Physiologiae Plantarum},
+   volume = {26},
+   number = {3},
+   pages = {59-60},
+   note = {Times Cited: 0
+0},
+   ISSN = {0137-5881},
+   url = {<Go to ISI>://WOS:000205415400153},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Skalicka, K. and Lim, K. Y. and Matyasek, R. and Koukalova, B. and Leitch, A. R. and Kovarik, A.},
+   title = {Rapid evolution of parental rDNA in a synthetic tobacco allotetraploid line},
+   journal = {American Journal of Botany},
+   volume = {90},
+   number = {7},
+   pages = {988-996},
+   note = {Times Cited: 61
+1
+65},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.90.7.988},
+   url = {<Go to ISI>://WOS:000184310900004},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Skalicka, K. and Lim, K. Y. and Matyasek, R. and Matzke, M. and Leitch, A. R. and Kovarik, A.},
+   title = {Preferential elimination of repeated DNA sequences from the paternal, Nicotiana tomentosiformis genome donor of a synthetic, allotetraploid tobacco},
+   journal = {New Phytologist},
+   volume = {166},
+   number = {1},
+   pages = {291-303},
+   note = {Times Cited: 85
+0
+88},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2004.01297.x},
+   url = {<Go to ISI>://WOS:000227390500027},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Sykorova, Eva and Fajkus, Jiri and Meznikova, Marie and Lim, Kar Yoong and Neplechova, Kamila and Blattner, Frank R. and Chase, Mark W. and Leitch, Andrew R.},
+   title = {Minisatellite telomeres occur in the family Alliaceae but are lost in Allium},
+   journal = {American Journal of Botany},
+   volume = {93},
+   number = {6},
+   pages = {814-823},
+   note = {Times Cited: 22
+Chase, Mark /A-6642-2011; Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012; Blattner, Frank/G-7402-2014
+1
+22},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.93.6.814},
+   url = {<Go to ISI>://WOS:000237941600002},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Sykorova, E. and Leitch, A. R. and Fajkus, J.},
+   title = {Asparagales telomerases which synthesize the human type of telomeres},
+   journal = {Plant Molecular Biology},
+   volume = {60},
+   number = {5},
+   pages = {633-646},
+   note = {Times Cited: 22
+Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012
+0
+23},
+   ISSN = {0167-4412},
+   DOI = {10.1007/s11103-005-5091-9},
+   url = {<Go to ISI>://WOS:000237209500002},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Sykorova, E. and Lim, K. Y. and Chase, M. W. and Knapp, S. and Leitch, I. J. and Leitch, A. R. and Fajkus, J.},
+   title = {The absence of Arabidopsis-type telomeres in Cestrum and closely related genera Vestia and Sessea (Solanaceae): first evidence from eudicots},
+   journal = {Plant Journal},
+   volume = {34},
+   number = {3},
+   pages = {283-291},
+   note = {Times Cited: 53
+Chase, Mark /A-6642-2011; Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012; Knapp, Sandra/A-4856-2011; Leitch, Ilia/D-6052-2011
+Knapp, Sandra/0000-0001-7698-3945; Leitch, Ilia/0000-0002-3837-8186
+2
+53},
+   ISSN = {0960-7412},
+   DOI = {10.1046/j.1365-313X.2003.01731.x},
+   url = {<Go to ISI>://WOS:000182455200003},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Sykorova, E. and Lim, K. Y. and Fajkus, J. and Leitch, A. R.},
+   title = {The signature of the Cestrum genome suggests an evolutionary response to the loss of (TTTAGGG)(n) telomeres},
+   journal = {Chromosoma},
+   volume = {112},
+   number = {4},
+   pages = {164-172},
+   note = {Times Cited: 16
+Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012
+2
+16},
+   ISSN = {0009-5915},
+   DOI = {10.1007/s00412-003-0256-2},
+   url = {<Go to ISI>://WOS:000187342700002},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Sykorova, E. and Lim, K. Y. and Kunicka, Z. and Chase, M. W. and Bennett, M. D. and Fajkus, J. and Leitch, A. R.},
+   title = {Telomere variability in the monocotyledonous plant order Asparagales},
+   journal = {Proceedings of the Royal Society B-Biological Sciences},
+   volume = {270},
+   number = {1527},
+   pages = {1893-1904},
+   note = {Times Cited: 52
+Chase, Mark /A-6642-2011; Fajkus, Jiri/D-2499-2012; Sykorova, Eva/D-9118-2012
+0
+56},
+   ISSN = {0962-8452},
+   DOI = {10.1098/rspb.2003.2446},
+   url = {<Go to ISI>://WOS:000185482500004},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Wang, M. L. and Leitch, A. R. and Schwarzacher, T. and Heslopharrison, J. S. and Moore, G.},
+   title = {CONSTRUCTION OF A CHROMOSOME-ENRICHED HPAII LIBRARY FROM FLOW-SORTED WHEAT CHROMOSOMES},
+   journal = {Nucleic Acids Research},
+   volume = {20},
+   number = {8},
+   pages = {1897-1901},
+   note = {Times Cited: 62
+Heslop-Harrison, JS/C-9207-2009
+Heslop-Harrison, JS/0000-0002-3105-2167
+0
+72},
+   ISSN = {0305-1048},
+   DOI = {10.1093/nar/20.8.1897},
+   url = {<Go to ISI>://WOS:A1992HT33500009},
+   year = {1992},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Zhong, S. B. and Zhang, D. Y. and Zhou, N. and Jiang, J. D. and Yao, J. X. and Leitch, A. R. and Leitch, I. J.},
+   title = {IDENTIFICATION OF ALIEN CHROMATIN AND RIBOSOMAL DNA IN WHEAT BY IN-SITU HYBRIDIZATION},
+   journal = {Acta Botanica Sinica},
+   volume = {33},
+   number = {6},
+   pages = {437-442},
+   note = {Times Cited: 3
+0
+3},
+   ISSN = {0577-7496},
+   url = {<Go to ISI>://BCI:BCI199192119534},
+   year = {1991},
+   type = {Journal Article}
+}
+

@@ -1,0 +1,947 @@
+@article{
+   author = {Bilinski, Paul and Distor, Kevin and Gutierrez-Lopez, Jose and Mendoza, Gabriela Mendoza and Shi, Jinghua and Dawe, R. Kelly and Ross-Ibarra, Jeffrey},
+   title = {Diversity and evolution of centromere repeats in the maize genome},
+   journal = {Chromosoma},
+   volume = {124},
+   number = {1},
+   pages = {57-65},
+   note = {Times Cited: 0
+0},
+   ISSN = {0009-5915},
+   DOI = {10.1007/s00412-014-0483-8},
+   url = {<Go to ISI>://WOS:000350304400005},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Chia, Jer-Ming and Song, Chi and Bradbury, Peter J. and Costich, Denise and de Leon, Natalia and Doebley, John and Elshire, Robert J. and Gaut, Brandon and Geller, Laura and Glaubitz, Jeffrey C. and Gore, Michael and Guill, Kate E. and Holland, Jim and Hufford, Matthew B. and Lai, Jinsheng and Li, Meng and Liu, Xin and Lu, Yanli and McCombie, Richard and Nelson, Rebecca and Poland, Jesse and Prasanna, Boddupalli M. and Pyhaejaervi, Tanja and Rong, Tingzhao and Sekhon, Rajandeep S. and Sun, Qi and Tenaillon, Maud I. and Tian, Feng and Wang, Jun and Xu, Xun and Zhang, Zhiwu and Kaeppler, Shawn M. and Ross-Ibarra, Jeffrey and McMullen, Michael D. and Buckler, Edward S. and Zhang, Gengyun and Xu, Yunbi and Ware, Doreen},
+   title = {Maize HapMap2 identifies extant variation from a genome in flux},
+   journal = {Nature Genetics},
+   volume = {44},
+   number = {7},
+   pages = {803-U238},
+   note = {Times Cited: 104
+Ross-Ibarra, Jeffrey/D-7782-2011; Hufford, Matthew/E-7810-2012
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+2
+108},
+   ISSN = {1061-4036},
+   DOI = {10.1038/ng.2313},
+   url = {<Go to ISI>://WOS:000305886900016},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Cook, Jason P. and McMullen, Michael D. and Holland, James B. and Tian, Feng and Bradbury, Peter and Ross-Ibarra, Jeffrey and Buckler, Edward S. and Flint-Garcia, Sherry A.},
+   title = {Genetic Architecture of Maize Kernel Composition in the Nested Association Mapping and Inbred Association Panels},
+   journal = {Plant Physiology},
+   volume = {158},
+   number = {2},
+   pages = {824-834},
+   note = {Times Cited: 64
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+64},
+   ISSN = {0032-0889},
+   DOI = {10.1104/pp.111.185033},
+   url = {<Go to ISI>://WOS:000300054300023},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Dyer, George A. and Lopez-Feldman, Alejandro and Yunez-Naude, Antonio and Taylor, J. Edward and Ross-Ibarra, Jeffrey},
+   title = {Reply to Brush et al.: Wake-up call for crop conservation science},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {112},
+   number = {1},
+   pages = {E2-E2},
+   note = {Times Cited: 0
+0},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1422645112},
+   url = {<Go to ISI>://WOS:000347447100002},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Eckert, A. J. and van Heerwaarden, J. and Wegrzyn, J. L. and Nelson, C. D. and Ross-Ibarra, J.},
+   title = {Patterns of Population Structure and Environmental Associations to Aridity Across the Range of Loblolly Pine Pinus taeda L., Pinaceae) (vol 185, pg 969, 2010)},
+   journal = {Genetics},
+   volume = {197},
+   number = {1},
+   pages = {433-433},
+   note = {Times Cited: 0
+van Heerwaarden, Joost/A-1424-2014
+van Heerwaarden, Joost/0000-0002-4959-3914
+0},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.114.164087},
+   url = {<Go to ISI>://WOS:000335858900033},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Eckert, Andrew J. and van Heerwaarden, Joost and Wegrzyn, Jill L. and Nelson, C. Dana and Ross-Ibarra, Jeffrey and Gonzalez-Martinez, Santiago C. and Neale, David B.},
+   title = {Patterns of Population Structure and Environmental Associations to Aridity Across the Range of Loblolly Pine (Pinus taeda L., Pinaceae)},
+   journal = {Genetics},
+   volume = {185},
+   number = {3},
+   pages = {969-982},
+   note = {Times Cited: 118
+Ross-Ibarra, Jeffrey/D-7782-2011; Eckert, Andrew/E-4788-2011; Gonzalez-Martinez, Santiago C/H-2014-2012; van Heerwaarden, Joost/A-1424-2014
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Eckert, Andrew/0000-0002-6522-2646; Gonzalez-Martinez, Santiago C/0000-0002-4534-3766; van Heerwaarden, Joost/0000-0002-4959-3914
+2
+120},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.110.115543},
+   url = {<Go to ISI>://WOS:000281906800021},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fang, Zhou and Pyhajarvi, Tanja and Weber, Allison L. and Dawe, R. Kelly and Glaubitz, Jeffrey C. and Sanchez Gonzalez, Jose de Jesus and Ross-Ibarra, Claudia and Doebley, John and Morrell, Peter L. and Ross-Ibarra, Jeffrey},
+   title = {Megabase-Scale Inversion Polymorphism in the Wild Ancestor of Maize},
+   journal = {Genetics},
+   volume = {191},
+   number = {3},
+   pages = {883-U426},
+   note = {Times Cited: 12
+Ross-Ibarra, Jeffrey/D-7782-2011; Morrell, Peter/E-2059-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Morrell, Peter/0000-0001-6282-1582
+0
+12},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.112.138578},
+   url = {<Go to ISI>://WOS:000308999900016},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Fuchs, Eric J. and Ross-Ibarra, Jeffrey and Barrantes, Gilbert},
+   title = {Reproductive biology of Macleania rupestris (Ericaceae), a pollen-limited Neotropical cloud-forest species in Costa Rica},
+   journal = {Journal of Tropical Ecology},
+   volume = {26},
+   pages = {351-354},
+   note = {Times Cited: 1
+3
+Fuchs, Eric/A-9963-2010; Ross-Ibarra, Jeffrey/D-7782-2011
+Fuchs, Eric/0000-0002-6645-9602; Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+1},
+   ISSN = {0266-4674},
+   DOI = {10.1017/s0266467410000064},
+   url = {<Go to ISI>://WOS:000277483200012},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Gaut, Brandon S. and Ross-Ibarra, Jeffrey},
+   title = {Perspective - Selection on major components of angiosperm genomes},
+   journal = {Science},
+   volume = {320},
+   number = {5875},
+   pages = {484-486},
+   note = {Times Cited: 30
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+1
+34},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1153586},
+   url = {<Go to ISI>://WOS:000255249300036},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Gore, Michael A. and Chia, Jer-Ming and Elshire, Robert J. and Sun, Qi and Ersoz, Elhan S. and Hurwitz, Bonnie L. and Peiffer, Jason A. and McMullen, Michael D. and Grills, George S. and Ross-Ibarra, Jeffrey and Ware, Doreen H. and Buckler, Edward S.},
+   title = {A First-Generation Haplotype Map of Maize},
+   journal = {Science},
+   volume = {326},
+   number = {5956},
+   pages = {1115-1117},
+   note = {Times Cited: 259
+Ross-Ibarra, Jeffrey/D-7782-2011; Chia, Jer-Ming/C-9992-2012
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+1
+267},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1177837},
+   url = {<Go to ISI>://WOS:000271951000045},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hake, Sarah and Ross-Ibarra, Jeffrey},
+   title = {Genetic, evolutionary and plant breeding insights from the domestication of maize},
+   journal = {Elife},
+   volume = {4},
+   note = {Times Cited: 0
+0},
+   ISSN = {2050-084X},
+   DOI = {10.7554/eLife.05861},
+   url = {<Go to ISI>://WOS:000351867100010},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hake, Sarah and Ross-Ibarra, Jeffrey},
+   title = {Genetic, evolutionary and plant breeding insights from the domestication of maize},
+   journal = {eLife},
+   volume = {4},
+   note = {Times Cited: 0
+0},
+   DOI = {10.7554/eLife.05861},
+   url = {<Go to ISI>://MEDLINE:25807085},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hollister, Jesse D. and Ross-Ibarra, Jeffrey and Gaut, Brandon S.},
+   title = {Indel-Associated Mutation Rate Varies with Mating System in Flowering Plants},
+   journal = {Molecular Biology and Evolution},
+   volume = {27},
+   number = {2},
+   pages = {409-416},
+   note = {Times Cited: 18
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+19},
+   ISSN = {0737-4038},
+   DOI = {10.1093/molbev/msp249},
+   url = {<Go to ISI>://WOS:000273704400018},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hufford, Matthew B. and Bilinski, Paul and Pyhaejaervi, Tanja and Ross-Ibarra, Jeffrey},
+   title = {Teosinte as a model system for population and ecological genomics},
+   journal = {Trends in Genetics},
+   volume = {28},
+   number = {12},
+   pages = {606-615},
+   note = {Times Cited: 3
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+3},
+   ISSN = {0168-9525},
+   DOI = {10.1016/j.tig.2012.08.004},
+   url = {<Go to ISI>://WOS:000312054900005},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hufford, Matthew B. and Gepts, Paul and Ross-Ibarra, Jeffrey},
+   title = {Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (Zea mays ssp parviglumis)},
+   journal = {Molecular Ecology},
+   volume = {20},
+   number = {1},
+   pages = {46-55},
+   note = {Times Cited: 6
+Ross-Ibarra, Jeffrey/D-7782-2011; Gepts, Paul/B-4417-2009; Hufford, Matthew/E-7810-2012
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Gepts, Paul/0000-0002-1056-4665;
+1
+6},
+   ISSN = {0962-1083},
+   DOI = {10.1111/j.1365-294X.2010.04924.x},
+   url = {<Go to ISI>://WOS:000285396000006},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hufford, Matthew B. and Lubinksy, Pesach and Pyhaejaervi, Tanja and Devengenzo, Michael T. and Ellstrand, Norman C. and Ross-Ibarra, Jeffrey},
+   title = {The Genomic Signature of Crop-Wild Introgression in Maize},
+   journal = {Plos Genetics},
+   volume = {9},
+   number = {5},
+   note = {Times Cited: 26
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+26},
+   ISSN = {1553-7404},
+   DOI = {10.1371/journal.pgen.1003477},
+   url = {<Go to ISI>://WOS:000320030000006},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Hufford, Matthew B. and Xu, Xun and van Heerwaarden, Joost and Pyhaejaervi, Tanja and Chia, Jer-Ming and Cartwright, Reed A. and Elshire, Robert J. and Glaubitz, Jeffrey C. and Guill, Kate E. and Kaeppler, Shawn M. and Lai, Jinsheng and Morrell, Peter L. and Shannon, Laura M. and Song, Chi and Springer, Nathan M. and Swanson-Wagner, Ruth A. and Tiffin, Peter and Wang, Jun and Zhang, Gengyun and Doebley, John and McMullen, Michael D. and Ware, Doreen and Buckler, Edward S. and Yang, Shuang and Ross-Ibarra, Jeffrey},
+   title = {Comparative population genomics of maize domestication and improvement},
+   journal = {Nature Genetics},
+   volume = {44},
+   number = {7},
+   pages = {808-U118},
+   note = {Times Cited: 127
+Ross-Ibarra, Jeffrey/D-7782-2011; Hufford, Matthew/E-7810-2012; Morrell, Peter/E-2059-2011; Springer, Nathan/F-2680-2013; van Heerwaarden, Joost/A-1424-2014
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Morrell, Peter/0000-0001-6282-1582; Springer, Nathan/0000-0002-7301-4759; van Heerwaarden, Joost/0000-0002-4959-3914
+1
+130},
+   ISSN = {1061-4036},
+   DOI = {10.1038/ng.2309},
+   url = {<Go to ISI>://WOS:000305886900017},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Kanizay, L. B. and Pyhaejaervi, T. and Lowry, E. G. and Hufford, M. B. and Peterson, D. G. and Ross-Ibarra, J. and Dawe, R. K.},
+   title = {Diversity and abundance of the abnormal chromosome 10 meiotic drive complex in Zea mays},
+   journal = {Heredity},
+   volume = {110},
+   number = {6},
+   pages = {570-577},
+   note = {Times Cited: 4
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+4},
+   ISSN = {0018-067X},
+   DOI = {10.1038/hdy.2013.2},
+   url = {<Go to ISI>://WOS:000319112000008},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Lockton, Steven and Ross-Ibarra, Jeffrey and Gaut, Brandon S.},
+   title = {Demography and weak selection drive patterns of transposable element diversity in natural populations of Arabidopsis lyrata},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {105},
+   number = {37},
+   pages = {13965-13970},
+   note = {Times Cited: 37
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+37},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.0804671105},
+   url = {<Go to ISI>://WOS:000259438500052},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Makarevitch, Irina and Waters, Amanda J. and West, Patrick T. and Stitzer, Michelle and Hirsch, Candice N. and Ross-Ibarra, Jeffrey and Springer, Nathan M.},
+   title = {Transposable Elements Contribute to Activation of Maize Genes in Response to Abiotic Stress},
+   journal = {Plos Genetics},
+   volume = {11},
+   number = {1},
+   note = {Times Cited: 1
+0
+1},
+   ISSN = {1553-7390},
+   DOI = {10.1371/journal.pgen.1004915},
+   url = {<Go to ISI>://WOS:000349314600034},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {May, Michael R. and Provance, Mitchell C. and Sanders, Andrew C. and Ellstrand, Norman C. and Ross-Ibarra, Jeffrey},
+   title = {A Pleistocene Clone of Palmer's Oak Persisting in Southern California},
+   journal = {Plos One},
+   volume = {4},
+   number = {12},
+   note = {Times Cited: 6
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+6},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0008346},
+   url = {<Go to ISI>://WOS:000272998100004},
+   year = {2009},
+   type = {Journal Article}
+}
+@article{
+   author = {Melters, Daniel P. and Bradnam, Keith R. and Young, Hugh A. and Telis, Natalie and May, Michael R. and Ruby, J. Graham and Sebra, Robert and Peluso, Paul and Eid, John and Rank, David and Garcia, Jose Fernando and DeRisi, Joseph L. and Smith, Timothy and Tobias, Christian and Ross-Ibarra, Jeffrey and Korf, Ian and Chan, Simon W. L.},
+   title = {Comparative analysis of tandem repeats from hundreds of species reveals unique insights into centromere evolution},
+   journal = {Genome Biology},
+   volume = {14},
+   number = {1},
+   note = {Times Cited: 23
+Ross-Ibarra, Jeffrey/D-7782-2011; Tobias, Christian/B-6602-2009
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+0
+24},
+   ISSN = {1465-6906},
+   DOI = {10.1186/gb-2013-14-1-r10},
+   url = {<Go to ISI>://WOS:000320155200010},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Mezmouk, Sofiane and Ross-Ibarra, Jeffrey},
+   title = {The Pattern and Distribution of Deleterious Mutations in Maize},
+   journal = {G3-Genes Genomes Genetics},
+   volume = {4},
+   number = {1},
+   pages = {163-171},
+   note = {Times Cited: 1
+0
+1},
+   ISSN = {2160-1836},
+   DOI = {10.1534/g3.113.008870},
+   url = {<Go to ISI>://WOS:000332597000018},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Morrell, Peter L. and Buckler, Edward S. and Ross-Ibarra, Jeffrey},
+   title = {Crop genomics: advances and applications},
+   journal = {Nature reviews. Genetics},
+   volume = {13},
+   number = {2},
+   pages = {85-96},
+   note = {Times Cited: 51
+0
+52},
+   DOI = {10.1038/nrg3097},
+   url = {<Go to ISI>://MEDLINE:22207165},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Morrell, Peter L. and Buckler, Edward S. and Ross-Ibarra, Jeffrey},
+   title = {Crop genomics: advances and applications},
+   journal = {Nature Reviews Genetics},
+   volume = {13},
+   number = {2},
+   pages = {85-96},
+   note = {Times Cited: 53
+Morrell, Peter/E-2059-2011; Ross-Ibarra, Jeffrey/D-7782-2011
+Morrell, Peter/0000-0001-6282-1582; Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+1
+54},
+   ISSN = {1471-0056},
+   DOI = {10.1038/nrg3097},
+   url = {<Go to ISI>://WOS:000299314700009},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Neel, M. C. and Ross-Ibarra, J. and Ellstrand, N. C.},
+   title = {Implications of mating patterns for conservation of the endangered plant Eriogonum ovalifolium var. vineum (Polygonaceae)},
+   journal = {American Journal of Botany},
+   volume = {88},
+   number = {7},
+   pages = {1214-1222},
+   note = {Times Cited: 14
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+2
+15},
+   ISSN = {0002-9122},
+   DOI = {10.2307/3558332},
+   url = {<Go to ISI>://WOS:000170012400008},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Provance, Mitchell C. and Garcia-Ruiz, Ignacio and Thommes, Casper and Ross-Ibarra, Jeffrey},
+   title = {Population genetics and ethnobotany of cultivated Diospyros riojae Gmez Pompa (Ebenaceae), an endangered fruit crop from Mexico},
+   journal = {Genetic Resources and Crop Evolution},
+   volume = {60},
+   number = {7},
+   pages = {2171-2182},
+   note = {Times Cited: 1
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+1},
+   ISSN = {0925-9864},
+   DOI = {10.1007/s10722-013-0015-z},
+   url = {<Go to ISI>://WOS:000325426700019},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Pyhajarvi, Tanja and Hufford, Matthew B. and Mezmouk, Sofiane and Ross-Ibarra, Jeffrey},
+   title = {Complex Patterns of Local Adaptation in Teosinte},
+   journal = {Genome Biology and Evolution},
+   volume = {5},
+   number = {9},
+   pages = {1594-1609},
+   note = {Times Cited: 8
+1
+8},
+   ISSN = {1759-6653},
+   DOI = {10.1093/gbe/evt109},
+   url = {<Go to ISI>://WOS:000327437600002},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, J.},
+   title = {Origin and domestication of chaya (Cnidoscolus aconitifolius Mill I. M. Johnst): Mayan spinach},
+   journal = {Mexican Studies-Estudios Mexicanos},
+   volume = {19},
+   number = {2},
+   pages = {287-302},
+   note = {Times Cited: 1
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+1},
+   ISSN = {0742-9797},
+   DOI = {10.1525/msem.2003.19.2.287},
+   url = {<Go to ISI>://WOS:000187353200004},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, J.},
+   title = {The evolution of recombination under domestication: A test of two hypotheses},
+   journal = {American Naturalist},
+   volume = {163},
+   number = {1},
+   pages = {105-112},
+   note = {Times Cited: 35
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+36},
+   ISSN = {0003-0147},
+   url = {<Go to ISI>://WOS:000188954900010},
+   year = {2004},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, J.},
+   title = {Quantitative trait loci and the study of plant domestication},
+   journal = {Genetica},
+   volume = {123},
+   number = {1-2},
+   pages = {197-204},
+   note = {Times Cited: 14
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+14},
+   ISSN = {0016-6707},
+   DOI = {10.1007/s10709-004-2744-6},
+   url = {<Go to ISI>://WOS:000227550900018},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, J.},
+   title = {Genome size and recombination in angiosperms: a second look},
+   journal = {Journal of Evolutionary Biology},
+   volume = {20},
+   number = {2},
+   pages = {800-806},
+   note = {Times Cited: 9
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+9},
+   ISSN = {1010-061X},
+   DOI = {10.1111/j.1420-9101.2006.01275.x},
+   url = {<Go to ISI>://WOS:000244244300038},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, Jeffrey and Gaut, Brandon S.},
+   title = {Multiple domestications do not appear monophyletic},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {105},
+   number = {49},
+   pages = {E105-E105},
+   note = {Times Cited: 11
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+11},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.0809042105},
+   url = {<Go to ISI>://WOS:000261706600105},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, J. and Molina-Cruz, A.},
+   title = {The ethnobotany of Chaya (Cnidoscolus aconitifolius ssp aconitifolius Breckon): A nutritious Maya vegetable},
+   journal = {Economic Botany},
+   volume = {56},
+   number = {4},
+   pages = {350-365},
+   note = {Times Cited: 7
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+1
+9},
+   ISSN = {0013-0001},
+   DOI = {10.1663/0013-0001(2002)056[0350:teocca]2.0.co;2},
+   url = {<Go to ISI>://WOS:000181924200006},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, Jeffrey and Morrell, Peter L. and Gaut, Brandon S.},
+   title = {Plant domestication, a unique opportunity to identify the genetic basis of adaptation},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {104},
+   pages = {8641-8648},
+   note = {Times Cited: 115
+1
+Colloquium on In the Light of Evolution I
+DEC 01-02, 2006
+Irvine, CA
+Natl Acad Sci, Arnold & Mabel Beckman Ctr
+Ross-Ibarra, Jeffrey/D-7782-2011; Morrell, Peter/E-2059-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Morrell, Peter/0000-0001-6282-1582
+3
+121},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.0700643104},
+   url = {<Go to ISI>://WOS:000246697800012},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, Jeffrey and Tenaillon, Maud and Gaut, Brandon S.},
+   title = {Historical Divergence and Gene Flow in the Genus Zea},
+   journal = {Genetics},
+   volume = {181},
+   number = {4},
+   pages = {1397-1409},
+   note = {Times Cited: 52
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+2
+55},
+   ISSN = {0016-6731},
+   DOI = {10.1534/genetics.108.097238},
+   url = {<Go to ISI>://WOS:000270213700020},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Ross-Ibarra, Jeffrey and Wright, Stephen I. and Foxe, John Paul and Kawabe, Akira and DeRose-Wilson, Leah and Gos, Gesseca and Charlesworth, Deborah and Gaut, Brandon S.},
+   title = {Patterns of Polymorphism and Demographic History in Natural Populations of Arabidopsis lyrata},
+   journal = {Plos One},
+   volume = {3},
+   number = {6},
+   note = {Times Cited: 87
+Wright, Stephen/C-3113-2008; Ross-Ibarra, Jeffrey/D-7782-2011; Charlesworth, Deborah/F-3071-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+1
+88},
+   ISSN = {1932-6203},
+   DOI = {10.1371/journal.pone.0002411},
+   url = {<Go to ISI>://WOS:000263248800048},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Shi, Jinghua and Wolf, Sarah E. and Burke, John M. and Presting, Gernot G. and Ross-Ibarra, Jeffrey and Dawe, R. Kelly},
+   title = {Widespread Gene Conversion in Centromere Cores},
+   journal = {Plos Biology},
+   volume = {8},
+   number = {3},
+   note = {Times Cited: 39
+Ross-Ibarra, Jeffrey/D-7782-2011; Burke, John/A-3502-2013
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+0
+39},
+   ISSN = {1544-9173},
+   DOI = {10.1371/journal.pbio.1000327},
+   url = {<Go to ISI>://WOS:000278125400007},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Studer, Anthony and Zhao, Qiong and Ross-Ibarra, Jeffrey and Doebley, John},
+   title = {Identification of a functional transposon insertion in the maize domestication gene tb1},
+   journal = {Nature Genetics},
+   volume = {43},
+   number = {11},
+   pages = {1160-U164},
+   note = {Times Cited: 82
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+84},
+   ISSN = {1061-4036},
+   DOI = {10.1038/ng.942},
+   url = {<Go to ISI>://WOS:000296584000024},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Swanson-Wagner, Ruth and Briskine, Roman and Schaefer, Robert and Hufford, Matthew B. and Ross-Ibarra, Jeffrey and Myers, Chad L. and Tiffin, Peter and Springer, Nathan M.},
+   title = {Reshaping of the maize transcriptome by domestication},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {109},
+   number = {29},
+   pages = {11878-11883},
+   note = {Times Cited: 25
+Hufford, Matthew/E-7810-2012; Ross-Ibarra, Jeffrey/D-7782-2011; Springer, Nathan/F-2680-2013
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Springer, Nathan/0000-0002-7301-4759
+0
+25},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1201961109},
+   url = {<Go to ISI>://WOS:000306837100077},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Tenaillon, Maud I. and Hufford, Matthew B. and Gaut, Brandon S. and Ross-Ibarra, Jeffrey},
+   title = {Genome Size and Transposable Element Content as Determined by High-Throughput Sequencing in Maize and Zea luxurians},
+   journal = {Genome Biology and Evolution},
+   volume = {3},
+   pages = {219-229},
+   note = {Times Cited: 47
+Ross-Ibarra, Jeffrey/D-7782-2011; Hufford, Matthew/E-7810-2012
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+1
+48},
+   ISSN = {1759-6653},
+   DOI = {10.1093/gbe/evr008},
+   url = {<Go to ISI>://WOS:000290252700020},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Tiffin, Peter and Ross-Ibarra, Jeffrey},
+   title = {Advances and limits of using population genetics to understand local adaptation},
+   journal = {Trends in Ecology & Evolution},
+   volume = {29},
+   number = {12},
+   pages = {673-680},
+   note = {Times Cited: 2
+0
+2},
+   ISSN = {0169-5347},
+   DOI = {10.1016/j.tree.2014.10.004},
+   url = {<Go to ISI>://WOS:000346554100009},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{
+   author = {van Heerwaarden, Joost and Doebley, John and Briggs, William H. and Glaubitz, Jeffrey C. and Goodman, Major M. and Sanchez Gonzalez, Jose de Jesus and Ross-Ibarra, Jeffrey},
+   title = {Genetic signals of origin, spread, and introgression in a large sample of maize landraces},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {108},
+   number = {3},
+   pages = {1088-1092},
+   note = {Times Cited: 72
+Ross-Ibarra, Jeffrey/D-7782-2011; van Heerwaarden, Joost/A-1424-2014
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; van Heerwaarden, Joost/0000-0002-4959-3914
+1
+74},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1013011108},
+   url = {<Go to ISI>://WOS:000286310300039},
+   year = {2011},
+   type = {Journal Article}
+}
+
+@article{
+   author = {van Heerwaarden, Joost and Hufford, Matthew B. and Ross-Ibarra, Jeffrey},
+   title = {Historical genomics of North American maize},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {109},
+   number = {31},
+   pages = {12420-12425},
+   note = {Times Cited: 22
+Ross-Ibarra, Jeffrey/D-7782-2011; van Heerwaarden, Joost/A-1424-2014
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; van Heerwaarden, Joost/0000-0002-4959-3914
+0
+22},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1209275109},
+   url = {<Go to ISI>://WOS:000307538200037},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Van Heerwaarden, Joost and Ross-Ibarra, Jeffrey and Doebley, John and Glaubitz, Jeffrey C. and Sanchez Gonzalez, Jose De Jesus and Gaut, Brandon S. and Eguiarte, Luis E.},
+   title = {Fine scale genetic structure in the wild ancestor of maize (Zea mays ssp parviglumis)},
+   journal = {Molecular Ecology},
+   volume = {19},
+   number = {6},
+   pages = {1162-1173},
+   note = {Times Cited: 13
+Ross-Ibarra, Jeffrey/D-7782-2011; van Heerwaarden, Joost/A-1424-2014
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; van Heerwaarden, Joost/0000-0002-4959-3914
+1
+14},
+   ISSN = {0962-1083},
+   DOI = {10.1111/j.1365-294X.2010.04559.x},
+   url = {<Go to ISI>://WOS:000274906000010},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {van Heerwaarden, J. and van Eeuwijk, F. A. and Ross-Ibarra, J.},
+   title = {Genetic diversity in a crop metapopulation},
+   journal = {Heredity},
+   volume = {104},
+   number = {1},
+   pages = {28-39},
+   note = {Times Cited: 15
+Ross-Ibarra, Jeffrey/D-7782-2011; van Heerwaarden, Joost/A-1424-2014
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; van Heerwaarden, Joost/0000-0002-4959-3914
+0
+15},
+   ISSN = {0018-067X},
+   DOI = {10.1038/hdy.2009.110},
+   url = {<Go to ISI>://WOS:000272794600005},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Vann, Laura and Kono, Thomas and Pyhajarvi, Tanja and Hufford, Matthew B. and Ross-Ibarra, Jeffrey},
+   title = {Natural variation in teosinte at the domestication locus teosinte branched1 (tb1)},
+   journal = {Peerj},
+   volume = {3},
+   note = {Times Cited: 0
+0},
+   ISSN = {2167-8359},
+   DOI = {10.7717/peerj.900},
+   url = {<Go to ISI>://WOS:000353836000002},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Wares, John P. and Barber, Paul H. and Ross-Ibarra, Jeffrey and Sotka, Erik E. and Toonen, Robert J.},
+   title = {Mitochondrial DNA and population size},
+   journal = {Science},
+   volume = {314},
+   number = {5804},
+   pages = {1388-1389},
+   note = {Times Cited: 16
+Ross-Ibarra, Jeffrey/D-7782-2011; Toonen, Rob/K-2891-2012
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Toonen, Rob/0000-0001-6339-4340
+0
+16},
+   ISSN = {0036-8075},
+   url = {<Go to ISI>://WOS:000242406100014},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Waters, Amanda J. and Bilinski, Paul and Eichten, Steven R. and Vaughn, Matthew W. and Ross-Ibarra, Jeffrey and Gehring, Mary and Springer, Nathan M.},
+   title = {Comprehensive analysis of imprinted genes in maize reveals allelic variation for imprinting and limited conservation with other species},
+   journal = {Proceedings of the National Academy of Sciences of the United States of America},
+   volume = {110},
+   number = {48},
+   pages = {19639-19644},
+   note = {Times Cited: 6
+Springer, Nathan/F-2680-2013
+Springer, Nathan/0000-0002-7301-4759
+0
+7},
+   ISSN = {0027-8424},
+   DOI = {10.1073/pnas.1309182110},
+   url = {<Go to ISI>://WOS:000327390400106},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Whitney, Kenneth D. and Baack, Eric J. and Hamrick, James L. and Godt, Mary Jo W. and Barringer, Brian C. and Bennett, Michael D. and Eckert, Christopher G. and Goodwillie, Carol and Kalisz, Susan and Leitch, Ilia J. and Ross-Ibarra, Jeffrey},
+   title = {A ROLE FOR NONADAPTIVE PROCESSES IN PLANT GENOME SIZE EVOLUTION?},
+   journal = {Evolution},
+   volume = {64},
+   number = {7},
+   pages = {2097-2109},
+   note = {Times Cited: 28
+Whitney, Kenneth/B-2971-2011; Ross-Ibarra, Jeffrey/D-7782-2011; Leitch, Ilia/D-6052-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954; Leitch, Ilia/0000-0002-3837-8186
+0
+28},
+   ISSN = {0014-3820},
+   DOI = {10.1111/j.1558-5646.2010.00967.x},
+   url = {<Go to ISI>://WOS:000279617800018},
+   year = {2010},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Wills, David M. and Whipple, Clinton J. and Takuno, Shohei and Kursel, Lisa E. and Shannon, Laura M. and Ross-Ibarra, Jeffrey and Doebley, John F.},
+   title = {From Many, One: Genetic Control of Prolificacy during Maize Domestication},
+   journal = {Plos Genetics},
+   volume = {9},
+   number = {6},
+   note = {Times Cited: 6
+Ross-Ibarra, Jeffrey/D-7782-2011
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954
+0
+6},
+   ISSN = {1553-7404},
+   DOI = {10.1371/journal.pgen.1003604},
+   url = {<Go to ISI>://WOS:000321222600068},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{
+   author = {Zhang, Lin-Bin and Zhu, Qihui and Wu, Zhi-Qiang and Ross-Ibarra, Jeffrey and Gaut, Brandon S. and Ge, Song and Sang, Tao},
+   title = {Selection on grain shattering genes and rates of rice domestication},
+   journal = {New Phytologist},
+   volume = {184},
+   number = {3},
+   pages = {708-720},
+   note = {Times Cited: 50
+Ross-Ibarra, Jeffrey/D-7782-2011; Zhu, Qihui/N-2625-2013
+Ross-Ibarra, Jeffrey/0000-0003-1656-4954;
+0
+58},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2009.02984.x},
+   url = {<Go to ISI>://WOS:000270902200018},
+   year = {2009},
+   type = {Journal Article}
+}
+
